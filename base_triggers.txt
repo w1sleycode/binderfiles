@@ -338,8 +338,8 @@
 :?:.ф::/a 
 :?:/sp::/spec 
 :?:.ыз::/spec 
-:?:/so::/specoff {Enter} 
-:?:.ыщ::/specoff {Enter} 
+:?:/so::/specoff {Enter} {F5}
+:?:.ыщ::/specoff {Enter} {F5}
 :?:/kill::/hp 0{left 2}
 :?:.лшдд::/hp 0{left 2}
 :?:.штсфк::/incar 
@@ -1223,4 +1223,5 @@
 :?:/re::Приветствую. {enter} {rep}
 :?:.иду::Приветствую, иду. {enter} {rep}
 :?:/ble::Приветствую, иду. {enter} {rep}
+
 
