@@ -1073,149 +1073,149 @@
 ; Наказания
 
 :?:.хард::/hardban  
-:?:.хард9::/hardban  9999 Cheats{left 12}
-:?:.софт::/hardban  9999 Cheats{left 12}
-:?:.рыбак::/hardban  9999 Использование ПО{left 22}
-:?:.чит::/hardban  9999 Cheats{left 12}
-:?:.оос::/mute  90 OOC in IC{Left 13}
-:?:.нрд::/ajail  15 nonRP Drive{Left 15}
-:?:.нрд25::/ajail  25 nonRP Drive{Left 15}
-:?:.нрд45::/ajail  45 nonRP Drive{Left 15}
-:?:.нрд70::/ajail  70 nonRP Drive{Left 15}
-:?:.нрд90::/ajail  90 nonRP Drive{Left 15}
-:?:.нрф::/ajail  15 nonRP Fly{Left 13}
-:?:.нрф25::/ajail  25 nonRP Fly{Left 13}
-:?:.нрп::/ajail  15 nonRP Поведение{Left 19}
-:?:.нрп25::/ajail  25 nonRP Поведение{Left 19}
-:?:.нрп45::/ajail  45 nonRP Поведение{Left 19}
-:?:.нрп70::/ajail  70 nonRP Поведение{Left 19}
-:?:.нрп90::/ajail  90 nonRP Поведение{Left 19}
-:?:.дб::/ajail  30 DB{Left 6}
-:?:.дб45::/ajail  45 DB{Left 6}
-:?:.дб60::/ajail  60 DB{Left 6}
-:?:.дб75::/ajail  75 DB{Left 6}
-:?:.дб90::/ajail  90 DB{Left 6}
+:?:.хард9::/hardban  9999 Cheats{left 13}
+:?:.софт::/hardban  9999 Cheats{left 13}
+:?:.рыбак::/hardban  9999 Использование ПО{left 23}
+:?:.чит::/hardban  9999 Cheats{left 13}
+:?:.оос::/mute  90 OOC in IC{Left 14}
+:?:.нрд::/ajail  15 nonRP Drive{Left 16}
+:?:.нрд25::/ajail  25 nonRP Drive{Left 16}
+:?:.нрд45::/ajail  45 nonRP Drive{Left 16}
+:?:.нрд70::/ajail  70 nonRP Drive{Left 16}
+:?:.нрд90::/ajail  90 nonRP Drive{Left 16}
+:?:.нрф::/ajail  15 nonRP Fly{Left 14}
+:?:.нрф25::/ajail  25 nonRP Fly{Left 14}
+:?:.нрп::/ajail  15 nonRP Поведение{Left 20}
+:?:.нрп25::/ajail  25 nonRP Поведение{Left 20}
+:?:.нрп45::/ajail  45 nonRP Поведение{Left 20}
+:?:.нрп70::/ajail  70 nonRP Поведение{Left 20}
+:?:.нрп90::/ajail  90 nonRP Поведение{Left 20}
+:?:.дб::/ajail  30 DB{Left 7}
+:?:.дб45::/ajail  45 DB{Left 7}
+:?:.дб60::/ajail  60 DB{Left 7}
+:?:.дб75::/ajail  75 DB{Left 7}
+:?:.дб90::/ajail  90 DB{Left 7}
 :?:.дм::/gunban  6 DM{Left 6}
-:?:.дм120::/ajail  120 DM{Left 7}
-:?:.пг::/ajail  35 PG{Left 6}
-:?:.пг55::/ajail  55 PG{Left 6}
-:?:.пг75::/ajail  75 PG{Left 6}
-:?:.пг90::/ajail  90 PG{Left 6}
-:?:.кгз::/ajail  10 Crime in GZ{Left 15}
-:?:.118::/ajail  35 1.18 Правила государственных организаций{Left 44}
-:?:.122::/ajail  10 1.22 Правила государственных организаций{Left 44}
-:?:.оскрод::/hardban  30 4.3 Основных правил проекта{Left 31}
-:?:.упомрод::/ban  10 4.2 Основных правил проекта{Left 31}
-:?:.оскадм::/ban  10 6.4 Основных правил проекта{Left 31}
-:?:.1101::/ajail  50 1.10.1 Правила государственных организаций{Left 46}
-:?:.120::/ban  10 1.20 Правила государственных организаций{Left 44}
-:?:.1102::/ajail  60 1.10.2 Правила государственных организаций{Left 46}
-:?:.муз::/mute  30 Music in GZ{Left 15}
-:?:.муз60::/mute  60 Music in GZ{Left 15}
-:?:.сп::/mute  30 sp in gz{Left 12}
-:?:.сп60::/mute  60 sp in gz{Left 12}
-:?:.громк::/mute  30 Громкие звуки{Left 17}
-:?:.смник::/ajail  720 Смените Имя_Фамилия согласно правилам проекта{Left 50}
-:?:.смвн::/ajail  720 Смените внешность согласно правилам проекта{Left 48}
-:?:.оса30::/hardban  30 Оскорбление администрации{left 29}
-:?:.оса15::/hardban  14 Оскорбление администрации{left 29}
-:?:.оса10::/hardban  10 Оскорбление администрации{left 29}
-:?:.оса::/hardban  7 Оскорбление администрации{left 28}
-:?:.ооск::/ajail  30 OOC оскорбление{left 19}
-:?:.оцоск::/ajail  15 OOC osk{left 11}
-:?:.стр::/ban  3 Стрельба по пешим{left 20}
-:?:.амн::/unjail  Амнистия{left 9}
-:?:.амн2::/ajail  Амнистия{left 9}
-:?:.запретка::/ban  3 3.5 Основных Правил Проекта{left 30}
-:?:.отказ::/hardban  9999 Отказ от проверки{left 23}
-:?:.тон::/mute  30 ПО для изменения тональности голоса.{Left 40}
-:?:.вза18::/ajail  45 1.8 ВЗА{Left 11}
-:?:.вза19::/ajail  90 1.9 ВЗА{Left 11}
-:?:.вза31::/ajail  90 3.1 ВЗА{Left 11}
-:?:.вза35::/ajail  35 3.5 ВЗА{Left 11}
-:?:.уход::/warn  Уход от RP{Left 11}
-:?:.уход4::/hardban  4 Уход от RP{Left 13}
+:?:.дм120::/ajail  120 DM{Left 8}
+:?:.пг::/ajail  35 PG{Left 7}
+:?:.пг55::/ajail  55 PG{Left 7}
+:?:.пг75::/ajail  75 PG{Left 7}
+:?:.пг90::/ajail  90 PG{Left 7}
+:?:.кгз::/ajail  10 Crime in GZ{Left 16}
+:?:.118::/ajail  35 1.18 Правила государственных организаций{Left 45}
+:?:.122::/ajail  10 1.22 Правила государственных организаций{Left 45}
+:?:.оскрод::/hardban  30 4.3 Основных правил проекта{left 32}
+:?:.упомрод::/ban  10 4.2 Основных правил проекта{left 32}
+:?:.оскадм::/ban  10 6.4 Основных правил проекта{left 32}
+:?:.1101::/ajail  50 1.10.1 Правила государственных организаций{Left 47}
+:?:.120::/ban  10 1.20 Правила государственных организаций{Left 45}
+:?:.1102::/ajail  60 1.10.2 Правила государственных организаций{Left 47}
+:?:.муз::/mute  30 Music in GZ{Left 16}
+:?:.муз60::/mute  60 Music in GZ{Left 16}
+:?:.сп::/mute  30 sp in gz{Left 13}
+:?:.сп60::/mute  60 sp in gz{Left 13}
+:?:.громк::/mute  30 Громкие звуки{Left 18}
+:?:.смник::/ajail  720 Смените Имя_Фамилия согласно правилам проекта{Left 51}
+:?:.смвн::/ajail  720 Смените внешность согласно правилам проекта{Left 49}
+:?:.оса30::/hardban  30 Оскорбление администрации{left 31}
+:?:.оса15::/hardban  14 Оскорбление администрации{left 31}
+:?:.оса10::/hardban  10 Оскорбление администрации{left 31}
+:?:.оса::/hardban  7 Оскорбление администрации{left 29}
+:?:.ооск::/ajail  30 OOC оскорбление{left 20}
+:?:.оцоск::/ajail  15 OOC osk{Left 12}
+:?:.стр::/ban  3 Стрельба по пешим{left 21}
+:?:.амн::/unjail  Амнистия{left 10}
+:?:.амн2::/ajail  Амнистия{left 10}
+:?:.запретка::/ban  3 3.5 Основных Правил Проекта{left 31}
+:?:.отказ::/hardban  9999 Отказ от проверки{left 24}
+:?:.тон::/mute  30 ПО для изменения тональности голоса.{Left 41}
+:?:.вза18::/ajail  45 1.8 ВЗА{Left 12}
+:?:.вза19::/ajail  90 1.9 ВЗА{Left 12}
+:?:.вза31::/ajail  90 3.1 ВЗА{Left 12}
+:?:.вза35::/ajail  35 3.5 ВЗА{Left 12}
+:?:.уход::/warn  Уход от RP{Left 12}
+:?:.уход4::/hardban  4 Уход от RP{Left 14}
 :?:.амнистия::Амнистию может выдать только тот администратор, что выдал наказание. Обратитесь к нему в репорте написав именной репорт на его имя или в Discord.
-:?:.бгз::/warn  Использование уязвимостей системы и багов{Left 42}
-:?:.крзз30::/ajail  30 Crime in GZ{Left 15}
-:?:.крзз45::/ajail  45 Crime in GZ{Left 15}
-:?:.крзз60::/ajail  60 Crime in GZ{Left 15}
-:?:.крзз120::/ajail  120 Crime in GZ{Left 16}
-:?:.флуд::/mute  30 4.4 Основных правил проекта{left 31}
-:?:.рез::/hardban  9999 По результатам проверки{left 29}
-:?:.род::/hardban  30 Прямое оскорбление родственников{left 36}
+:?:.бгз::/warn  Использование уязвимостей системы и багов{Left 43}
+:?:.крзз30::/ajail  30 Crime in GZ{Left 16}
+:?:.крзз45::/ajail  45 Crime in GZ{Left 16}
+:?:.крзз60::/ajail  60 Crime in GZ{Left 16}
+:?:.крзз120::/ajail  120 Crime in GZ{Left 17}
+:?:.флуд::/mute  30 4.4 Основных правил проекта{left 32}
+:?:.рез::/hardban  9999 По результатам проверки{left 30}
+:?:.род::/hardban  30 Прямое оскорбление родственников{left 37}
 :?:.ненар::Игрок уже не нарушает. Если есть видеозапись, то оформите жалобу на игрока на форуме.{enter}
 :?:.репжб::Что бы оформить репорт жалобу, необходимо что бы в название видео было: Ваш статик, статик кто нарушил, дата и время нарушения, видео не должно быть длинее 1 минуты, а так же ситуация произошошла не более 2х часов назад.{enter}
 
 
-:?:/jnrfp::/hardban  9999 Отказ от проверки{left 23}
-:?:/[fhlj::/hardban  9999 Cheats{left 12}
-:?:/hs,fr::/hardban  9999 Использование ПО{left 22}
-:?:/[fhl::/hardban  9999 Cheats{left 12}
-:?:/cjan::/hardban  9999 Cheats{left 12}
-:?:/[fhl9::/hardban  9999 Cheats{left 12}
-:?:/hjl::/hardban  30 Прямое оскорбление родственников{left 36}
-:?:/jjc::/mute  90 OOC in IC{Left 13}
-:?:/yhl::/ajail  15 nonRP Drive{Left 15}
-:?:/yhll25::/ajail  25 nonRP Drive{Left 15}
-:?:/yhl45::/ajail  45 nonRP Drive{Left 15}
-:?:/yhl70::/ajail  70 nonRP Drive{Left 15}
-:?:/yhl90::/ajail  90 nonRP Drive{Left 15}
-:?:/yha::/ajail  15 nonRP Fly{Left 13}
-:?:/yha25::/ajail  25 nonRP Fly{Left 13}
+:?:/jnrfp::/hardban  9999 Отказ от проверки{left 24}
+:?:/[fhlj::/hardban  9999 Cheats{left 13}
+:?:/hs,fr::/hardban  9999 Использование ПО{left 23}
+:?:/[fhl::/hardban  9999 Cheats{left 13}
+:?:/cjan::/hardban  9999 Cheats{left 13}
+:?:/[fhl9::/hardban  9999 Cheats{left 13}
+:?:/hjl::/hardban  30 Прямое оскорбление родственников{left 37}
+:?:/jjc::/mute  90 OOC in IC{Left 14}
+:?:/yhl::/ajail  15 nonRP Drive{Left 17}
+:?:/yhll25::/ajail  25 nonRP Drive{Left 17}
+:?:/yhl45::/ajail  45 nonRP Drive{Left 17}
+:?:/yhl70::/ajail  70 nonRP Drive{Left 17}
+:?:/yhl90::/ajail  90 nonRP Drive{Left 17}
+:?:/yha::/ajail  15 nonRP Fly{Left 14}
+:?:/yha25::/ajail  25 nonRP Fly{Left 14}
 :?:/yhg::/ajail  15 nonRP Поведение{Left 19}
 :?:/yhg25::/ajail  25 nonRP Поведение{Left 19}
 :?:/yhg45::/ajail  45 nonRP Поведение{Left 19}
 :?:/yhg70::/ajail  70 nonRP Поведение{Left 19}
 :?:/yhg90::/ajail  90 nonRP Поведение{Left 19}
-:?:/l,::/ajail  30 DB{Left 6}
-:?:/l,45::/ajail  45 DB{Left 6}
-:?:/l,60::/ajail  60 DB{Left 6}
-:?:/l,75::/ajail  75 DB{Left 6}
-:?:/l,90::/ajail  90 DB{Left 6}
-:?:/lv::/gunban  6 DM{Left 5}
+:?:/l,::/ajail  30 DB{Left 7}
+:?:/l,45::/ajail  45 DB{Left 7}
+:?:/l,60::/ajail  60 DB{Left 7}
+:?:/l,75::/ajail  75 DB{Left 7}
+:?:/l,90::/ajail  90 DB{Left 7}
+:?:/lv::/gunban  6 DM{Left 6}
 :?:/lv120::/ajail  120 DM{Left 7}
-:?:/gu::/ajail  35 PG{Left 6}
-:?:/gu55::/ajail  55 PG{Left 6}
-:?:/gu75::/ajail  75 PG{Left 6}
-:?:/gu90::/ajail  90 PG{Left 6}
-:?:/rup::/ajail  10 Crime in GZ{Left 15}
-:?:/118::/ajail  35 1.18 Правила государственных организаций{Left 44}
-:?:/122::/ajail  10 1.22 Правила государственных организаций{Left 44}
-:?:/1101::/ajail  50 1.10.1 Правила государственных организаций{Left 46}
-:?:/120::/ban  10 1.20 Правила государственных организаций{Left 44}
-:?:/1102::/ajail  60 1.10.2 Правила государственных организаций{Left 46}
-:?:/vep::/mute  30 Music in GZ{Left 15}
-:?:/vep60::/mute  60 Music in GZ{Left 15}
-:?:/uhjvr::/mute  30 Громкие звуки{Left 17}
-:?:/cg::/mute  30 sp in gz{Left 12}
-:?:/cg60::/mute  60 sp in gz{Left 12}
-:?:/cvybr::/ajail  720 Смените Имя_Фамилия согласно правилам проекта{Left 50}
-:?:/cvdy::/ajail  720 Смените внешность согласно правилам проекта{Left 48}
-:?:/jcf30::/hardban  30 Оскорбление администрации{left 29}
-:?:/jcf15::/hardban  14 Оскорбление администрации{left 29}
-:?:/jcf10::/hardban  10 Оскорбление администрации{left 29}
-:?:/jcf::/hardban  7 Оскорбление администрации{left 28}
-:?:/jjcr::/ajail   30 OOC оскорбление{left 19}
-:?:/owock::/ajail  15 OOC osk{left 11}
-:?:/cnh::/ban  3 Стрельба по пешим{left 20}
-:?:/fvy::/unjail  Амнистия{left 9}
-:?:/fvy2::/ajail  Амнистия{left 9}
-:?:/pfghtnrf::/ban  3 3.5 Основных Правил Проекта{left 30}
-:?:/njy::/mute  30 ПО для изменения тональности голоса.{Left 40}
-:?:/dpf18::/ajail  45 1.8 ВЗА{Left 11}
-:?:/dpf19::/ajail  90 1.9 ВЗА{Left 11}
-:?:/dpf31::/ajail  90 3.1 ВЗА{Left 11}
-:?:/dpf35::/ajail  35 3.5 ВЗА{Left 11}
-:?:/e[jl::/warn  Уход от RP{Left 11}
-:?:/e[jl4::/hardban  4 Уход от RP{Left 13}
+:?:/gu::/ajail  35 PG{Left 7}
+:?:/gu55::/ajail  55 PG{Left 7}
+:?:/gu75::/ajail  75 PG{Left 7}
+:?:/gu90::/ajail  90 PG{Left 7}
+:?:/rup::/ajail  10 Crime in GZ{Left 16}
+:?:/118::/ajail  35 1.18 Правила государственных организаций{Left 45}
+:?:/122::/ajail  10 1.22 Правила государственных организаций{Left 45}
+:?:/1101::/ajail  50 1.10.1 Правила государственных организаций{Left 47}
+:?:/120::/ban  10 1.20 Правила государственных организаций{Left 45}
+:?:/1102::/ajail  60 1.10.2 Правила государственных организаций{Left 47}
+:?:/vep::/mute  30 Music in GZ{Left 16}
+:?:/vep60::/mute  60 Music in GZ{Left 16}
+:?:/uhjvr::/mute  30 Громкие звуки{Left 18}
+:?:/cg::/mute  30 sp in gz{Left 13}
+:?:/cg60::/mute  60 sp in gz{Left 13}
+:?:/cvybr::/ajail  720 Смените Имя_Фамилия согласно правилам проекта{Left 51}
+:?:/cvdy::/ajail  720 Смените внешность согласно правилам проекта{Left 49}
+:?:/jcf30::/hardban  30 Оскорбление администрации{left 30}
+:?:/jcf15::/hardban  14 Оскорбление администрации{left 30}
+:?:/jcf10::/hardban  10 Оскорбление администрации{left 30}
+:?:/jcf::/hardban  7 Оскорбление администрации{left 29}
+:?:/jjcr::/ajail   30 OOC оскорбление{left 20}
+:?:/owock::/ajail  15 OOC osk{Left 12}
+:?:/cnh::/ban  3 Стрельба по пешим{left 21}
+:?:/fvy::/unjail  Амнистия{left 10}
+:?:/fvy2::/ajail  Амнистия{left 10}
+:?:/pfghtnrf::/ban  3 3.5 Основных Правил Проекта{left 31}
+:?:/njy::/mute  30 ПО для изменения тональности голоса.{Left 41}
+:?:/dpf18::/ajail  45 1.8 ВЗА{Left 12}
+:?:/dpf19::/ajail  90 1.9 ВЗА{Left 12}
+:?:/dpf31::/ajail  90 3.1 ВЗА{Left 12}
+:?:/dpf35::/ajail  35 3.5 ВЗА{Left 12}
+:?:/e[jl::/warn  Уход от RP{Left 12}
+:?:/e[jl4::/hardban  4 Уход от RP{Left 14}
 :?:/,up::/warn  Использование уязвимостей системы и багов{Left 42}
-:?:/rhpp30::/ajail  30 Crime in GZ{Left 15}
-:?:/rhpp45::/ajail  45 Crime in GZ{Left 15}
-:?:/rhpp60::/ajail  60 Crime in GZ{Left 15}
-:?:/rhpp120::/ajail  120 Crime in GZ{Left 16}
-:?:/akel::/mute  30 4.4 Основных правил проекта{left 31}
-:?:/htp::/hardban  9999 По результатам проверки{left 29}
+:?:/rhpp30::/ajail  30 Crime in GZ{Left 16}
+:?:/rhpp45::/ajail  45 Crime in GZ{Left 16}
+:?:/rhpp60::/ajail  60 Crime in GZ{Left 16}
+:?:/rhpp120::/ajail  120 Crime in GZ{Left 17}
+:?:/akel::/mute  30 4.4 Основных правил проекта{left 32}
+:?:/htp::/hardban  9999 По результатам проверки{left 30}
 
 ; Ку бля
 :?:.ку::Приветствую. {enter} {rep}
