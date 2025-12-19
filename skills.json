@@ -1,0 +1,1027 @@
+{
+  "count": 26,
+  "data": [
+    {
+      "id": "2eb106ha3vrshe5y",
+      "admin_id": "busdriver",
+      "name": "Водитель автобуса",
+      "description": "Работа заключается в езде на автобусе по остановкам по установленному маршруту",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "0is9l4n4q5npjx5k",
+          "name": "Ранг 1",
+          "description": "",
+          "range": "0-360"
+        },
+        {
+          "id": "xtx6fvxokg0fc13l",
+          "name": "Ранг 2",
+          "description": "",
+          "range": "360-1080"
+        },
+        {
+          "id": "hig818e7ubhqdyjy",
+          "name": "Ранг 3",
+          "description": "",
+          "range": "1080-2160"
+        },
+        {
+          "id": "qag3ypy7yuitecnh",
+          "name": "Ранг 4",
+          "description": "",
+          "range": "2160-4330"
+        },
+        {
+          "id": "ml6sqc3fva3z4coe",
+          "name": "Ранг 5",
+          "description": "",
+          "range": "4330+"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "94qsslskwuwf0g9r",
+      "admin_id": "wheelie_ability",
+      "name": "Вождение",
+      "description": "Улучшает навыки вождения так же как в обычной GTA. Навык улучшается со временем проведённым за рулём",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "ks7u9mpezzdewqpb",
+          "name": "",
+          "description": "",
+          "range": "0-100"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "q62wpawz7f87xqi6",
+      "admin_id": "stamina",
+      "name": "Выносливость",
+      "description": "Навык даёт возможность бегать без усталости и потери здоровья при прокачке на 100%. Навык прокачивается при беге или при покупке Стартового набора (до 5 уровня персонажа) ",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "9ax19buja51k2yvo",
+          "name": "",
+          "description": "",
+          "range": "0-100"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "4t3qec3qg5wx22c1",
+      "admin_id": "robhouse",
+      "name": "Грабитель",
+      "description": "Грабитель домов - Нелегальная работа заключается во взломе домов и выносе из него различных предметов, с дальнейшей продажей. Можно работать в группе до 4х человек. Нужно быть членом банды. 1 очко опыта дают за каждый предмет, который был перенесён в багажник любым участником группы во время ограбления, а от уровня навыка игрока зависит помещение, которое можно ограбить, количество предметов в помещении и ценность вещей, а так же уровень защиты помещения",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "9wuf7pa14lphutl1",
+          "name": "Ранг 1",
+          "description": "",
+          "range": "0-80"
+        },
+        {
+          "id": "v8feewq0c7w9jgwg",
+          "name": "Ранг 2",
+          "description": "",
+          "range": "80-310"
+        },
+        {
+          "id": "3szkdsymci5w4dy1",
+          "name": "Ранг 3",
+          "description": "",
+          "range": "310-690"
+        },
+        {
+          "id": "lu8zmz6e5nc0ygjk",
+          "name": "Ранг 3",
+          "description": "",
+          "range": "690-1270"
+        },
+        {
+          "id": "e4vs0w4txpuzq2kg",
+          "name": "Ранг 5",
+          "description": "",
+          "range": "1270-2270"
+        },
+        {
+          "id": "4heyz4uhlpycopjv",
+          "name": "Ранг 6",
+          "description": "",
+          "range": "2270-4270"
+        },
+        {
+          "id": "5x9jkb3nv8oggaw9",
+          "name": "Ранг 7",
+          "description": "",
+          "range": "4270-6900"
+        },
+        {
+          "id": "yd5md6ukpmmm91xl",
+          "name": "Ранг 8",
+          "description": "",
+          "range": "6900-11000"
+        },
+        {
+          "id": "vroj6fg18tnmi78z",
+          "name": "Ранг 9",
+          "description": "",
+          "range": "11000-15000"
+        },
+        {
+          "id": "lcwp8e3j9kzs02cr",
+          "name": "Ранг 10",
+          "description": "",
+          "range": "15000+"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "nnfqmbz23hqdozpp",
+      "admin_id": "mushroomer",
+      "name": "Грибник",
+      "description": "Работа заключается в сборе грибов на специальных участках, отмеченных грибом (например: Грибы 3/6)",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "awswdeu0z2avhimc",
+          "name": "Ранг 1",
+          "description": "Шампиньон обыкновенный",
+          "range": "0-845"
+        },
+        {
+          "id": "t5rnogc2bsv3ec1p",
+          "name": "Ранг 2",
+          "description": "Вёшенка обыкновенная",
+          "range": "845-2545"
+        },
+        {
+          "id": "qf4nt2mqlyzrgiol",
+          "name": "Ранг 3",
+          "description": "Гипсизигус шахматный",
+          "range": "2545-5380"
+        },
+        {
+          "id": "n5qt7pejys51jdun",
+          "name": "Ранг 4",
+          "description": "Мухомор",
+          "range": "5380-10570"
+        },
+        {
+          "id": "5115iw0fz1a75eug",
+          "name": "Ранг 5",
+          "description": "Подболотник",
+          "range": "10570-19410"
+        },
+        {
+          "id": "261bz6kq3htemjd8",
+          "name": "Ранг 6",
+          "description": "Подберезовик",
+          "range": "19410+"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "0yhi2aayaga4rnx9",
+      "admin_id": "trucker",
+      "name": "Дальнобойщик",
+      "description": "Дальнобойщик - Работа заключается в погрузке и доставке различных грузов, используя подходящий транспорт (заказы берутся через планшет). На фургонах (4-6 ур) и большегрузах (7-9 ур.) можно работать в группе до 4х человек (всем членам группы требуется разблокировать умение \"Конвой\")",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "u0kwl8bablaffrib",
+          "name": "1 ранг",
+          "description": "Пикапы",
+          "range": "0-150"
+        },
+        {
+          "id": "eiybnbsyzct3co44",
+          "name": "2 ранг",
+          "description": "Пикапы",
+          "range": "150-410"
+        },
+        {
+          "id": "o1cpmu9cgkghnb72",
+          "name": "3 ранг",
+          "description": "Пикапы",
+          "range": "410-740"
+        },
+        {
+          "id": "0my03nhl82wg09x1",
+          "name": "4 ранг",
+          "description": "Фургоны",
+          "range": "740-1240"
+        },
+        {
+          "id": "5wmeg3ncw6rvs54g",
+          "name": "5 ранг",
+          "description": "Фургоны",
+          "range": "1240-1870"
+        },
+        {
+          "id": "c9v01s3q64clmd6h",
+          "name": "6 ранг",
+          "description": "Фургоны",
+          "range": "1870-2700"
+        },
+        {
+          "id": "4qnrurj9esocma4l",
+          "name": "7 ранг",
+          "description": "Большегрузы",
+          "range": "2700-4190"
+        },
+        {
+          "id": "qxd8kvpraqnfnjo0",
+          "name": "8 ранг",
+          "description": "Большегрузы",
+          "range": "4190-6150"
+        },
+        {
+          "id": "vckcuwxhgeop6qdo",
+          "name": "9 ранг",
+          "description": "Большегрузы",
+          "range": "6150+"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "1t5kcjsdhyba1x02",
+      "admin_id": "lung_capacity",
+      "name": "Дыхание",
+      "description": "Навык даёт возможность больше времени находиться под водой. Навык прокачивается при долгом нахождении под водой, нужно много погружаться и находиться под водой как можно дольше. Навык быстрее прокачивается с \"Протеиновый батончик\"",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "q93zju30qimvbqm6",
+          "name": "",
+          "description": "",
+          "range": "0-100"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "jh39zqwwxvvzaey1",
+      "admin_id": "orgjob",
+      "name": "Закладчик",
+      "description": "Закладчик - Нелегальная работа заключается в развозке пакетиков Green (1-3 ур.), Blue (4-6 ур.), White (7-9 ур.) по разным точкам, расположенных по всему штату. Нужно быть членом криминальной семьи (должны быть разблокированы соответствующие умения в ветке семьи), либо членом банды.",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "aa4gf8fhscqpc19w",
+          "name": "Ранг 1 (Green)",
+          "description": "",
+          "range": "0-260"
+        },
+        {
+          "id": "0lukk7r1hzmpq1mp",
+          "name": "Ранг 2 (Green)",
+          "description": "",
+          "range": "260-670"
+        },
+        {
+          "id": "27llfx1kjiwhgaca",
+          "name": "Ранг 3 (Green)",
+          "description": "",
+          "range": "670-1210"
+        },
+        {
+          "id": "gdiry6i28mglsqjy",
+          "name": "Ранг 4 (Blue)",
+          "description": "",
+          "range": "1210-2425"
+        },
+        {
+          "id": "i9b30kn5ehs767wg",
+          "name": "Ранг 5 (Blue)",
+          "description": "",
+          "range": "2425-3880"
+        },
+        {
+          "id": "lk69ogy1vrwgnn5h",
+          "name": "Ранг 6 (Blue)",
+          "description": "",
+          "range": "3880-5770"
+        },
+        {
+          "id": "00rm9k7y0vlk7m7m",
+          "name": "Ранг 7 (White)",
+          "description": "",
+          "range": "5770-9650"
+        },
+        {
+          "id": "zelam058ffhy2jiz",
+          "name": "Ранг 8 (White)",
+          "description": "",
+          "range": "9650-14280"
+        },
+        {
+          "id": "jpnkxodu5ge3sicd",
+          "name": "Ранг 9 (White)",
+          "description": "",
+          "range": "14280+"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "cz71ow1ls4cmvvg2",
+      "admin_id": "moneycollector",
+      "name": "Инкассатор",
+      "description": "Работа заключается в развозке денег из хранилища по банкоматам (4 банкомата за одну загрузку). Можно работать в группе до 4х человек",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "tztc1wln4tdksq9p",
+          "name": "1 ранг",
+          "description": "",
+          "range": "0-90"
+        },
+        {
+          "id": "qm2o0ljoyc68c2qw",
+          "name": "2 ранг",
+          "description": "",
+          "range": "90-265"
+        },
+        {
+          "id": "2g1tkw3f81s9pmyw",
+          "name": "3 ранг",
+          "description": "",
+          "range": "265-920"
+        },
+        {
+          "id": "sa756z601dwournm",
+          "name": "4 ранг",
+          "description": "",
+          "range": "920-3230"
+        },
+        {
+          "id": "ojveec04frl1jm5c",
+          "name": "5 ранг",
+          "description": "",
+          "range": "3230+"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "nb7qyey1g0b5c4el",
+      "admin_id": "quarryman",
+      "name": "Карьерщик",
+      "description": "Работа заключается в сборе различной руды на карьере",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "un159poxam1snuok",
+          "name": "Ранг 1",
+          "description": "",
+          "range": "0-830"
+        },
+        {
+          "id": "a8b43l9h43pk20xy",
+          "name": "Ранг 2",
+          "description": "",
+          "range": "830-2490"
+        },
+        {
+          "id": "1762824341444",
+          "name": "Ранг 3",
+          "description": "",
+          "range": "2490-4980"
+        },
+        {
+          "id": "1762824341751",
+          "name": "Ранг 4",
+          "description": "",
+          "range": "4980-9960"
+        },
+        {
+          "id": "1762824342120",
+          "name": "Ранг 5",
+          "description": "",
+          "range": "9960+"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "7uaf8cx1ydoidevf",
+      "admin_id": "metaldetector",
+      "name": "Кладоискатель",
+      "description": "Работа заключается в поисках и выкапывании кладов. Необходим Металлоискатель и Лопата.",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "1763301786935",
+          "name": "Ранг 1",
+          "description": "",
+          "range": "0-10"
+        },
+        {
+          "id": "1763301850680",
+          "name": "Ранг 2",
+          "description": "",
+          "range": "10-30"
+        },
+        {
+          "id": "1763301850839",
+          "name": "Ранг 3",
+          "description": "",
+          "range": "30-90"
+        },
+        {
+          "id": "1763301850995",
+          "name": "Ранг 4",
+          "description": "",
+          "range": "90+"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "qvmfcscvkaxk9pux",
+      "admin_id": "lumberjack",
+      "name": "Лесоруб",
+      "description": "Работа заключается в рубке деревьев, расположенных в специальных участках (например Лес 1/4)",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "y06o5g7x16mcvydo",
+          "name": "1 ранг",
+          "description": "Сосновое бревно",
+          "range": "0-680"
+        },
+        {
+          "id": "txgk2rkg7ho9p2cv",
+          "name": "2 ранг",
+          "description": "Дубовое бревно",
+          "range": "680-2390"
+        },
+        {
+          "id": "owx0dwu5yy2m2r71",
+          "name": "3 ранг",
+          "description": "Березовое бревно",
+          "range": "2390-8360"
+        },
+        {
+          "id": "j1vvdspk74d0luez",
+          "name": "4 ранг",
+          "description": "Кленовое бревно",
+          "range": "8360+"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "s0hhp6le9j34jyol",
+      "admin_id": "garbagecollector",
+      "name": "Мусорщик",
+      "description": "Работа заключается в сборе мусорных мешков из мусорных баков, которые расположены по всему штату (на одной точке нужно загрузить 8 мешков). Можно работать в группе до 4х человек",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "md0lnl3pajg291c8",
+          "name": "1 ранг",
+          "description": "",
+          "range": "0-610"
+        },
+        {
+          "id": "dwsbsjdkr2bijrfr",
+          "name": "2 ранг",
+          "description": "",
+          "range": "610-1840"
+        },
+        {
+          "id": "6dw5lkwb3upjffld",
+          "name": "3 ранг",
+          "description": "",
+          "range": "1840-4600"
+        },
+        {
+          "id": "2ydf60ugkucooxif",
+          "name": "4 ранг",
+          "description": "",
+          "range": "4600-11500"
+        },
+        {
+          "id": "rsv7x0bmbitzajw3",
+          "name": "5 ранг",
+          "description": "",
+          "range": "11500+"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "uf404fgswxnndq5n",
+      "admin_id": "",
+      "name": "Пожарный",
+      "description": "Работа заключается в тушении пожаров на пожарной машине, которую необходимо заправлять водой.\nДля работы необходимо быть сотрудником EMS",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "1763301476363",
+          "name": "Ранг 1",
+          "description": "",
+          "range": "0-60"
+        },
+        {
+          "id": "1763301662311",
+          "name": "Ранг 2",
+          "description": "",
+          "range": "60-190"
+        },
+        {
+          "id": "1763301670142",
+          "name": "Ранг 3",
+          "description": "",
+          "range": "190-560"
+        },
+        {
+          "id": "1763301673873",
+          "name": "Ранг 4",
+          "description": "",
+          "range": "560-690"
+        },
+        {
+          "id": "1763301674074",
+          "name": "Ранг 5",
+          "description": "",
+          "range": "690+"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "wlk9ddisv0n2l2o1",
+      "admin_id": "flying_ability",
+      "name": "Полёт",
+      "description": "Чем выше навык, тем лучше стабилизация при полётах на вертолётах или самолётах. Навык прокачивается при пилотировании, либо можно прокачать в \"Лётной школе\", она отмечена на карте. Занятий там нет, просто приходите и покупаете прокачку навыка за 2000$ на 10%, занятия доступны каждые 24 часа после предыдущих",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "1bts4nalmq9p9t5h",
+          "name": "",
+          "description": "",
+          "range": "0-100"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "c7cfeupohr46zame",
+      "admin_id": "gopostal",
+      "name": "Почтальон",
+      "description": "Работа заключается в развозке различных посылок в дома, которые отмечаются после загрузки на складе (на одной точке нужно разгрузить 5 посылок). Можно работать в группе до 4х человек.",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "8k78dqyf1ipifqe7",
+          "name": "Ранг 1",
+          "description": "",
+          "range": "0-380"
+        },
+        {
+          "id": "6zo1zq9r3kt48i1g",
+          "name": "Ранг 2",
+          "description": "",
+          "range": "380-1140"
+        },
+        {
+          "id": "by84i5muk1p8otge",
+          "name": "Ранг 3",
+          "description": "",
+          "range": "1140-2560"
+        },
+        {
+          "id": "g2rog9k85q7zpayg",
+          "name": "Ранг 4",
+          "description": "",
+          "range": "2560-5770"
+        },
+        {
+          "id": "1762823694812",
+          "name": "Ранг 5",
+          "description": "",
+          "range": "5770+"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "u6ulna4he10atyan",
+      "admin_id": "fishing",
+      "name": "Рыболов",
+      "description": "Работа заключается в ловле рыбы из различных водоём, которые обозначены крючком (например: Зона рыбалки уровень 1/3)",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "5zynpic70b8uhqhb",
+          "name": "Ранг 1",
+          "description": "",
+          "range": "0-196"
+        },
+        {
+          "id": "m872yqzooxp1uhnf",
+          "name": "Ранг 2",
+          "description": "",
+          "range": "196-670"
+        },
+        {
+          "id": "ge69z23k8cqdn0gw",
+          "name": "Ранг 3",
+          "description": "",
+          "range": "670-1245"
+        },
+        {
+          "id": "zrriec0alcje9xw5",
+          "name": "Ранг 4",
+          "description": "",
+          "range": "1245-1970"
+        },
+        {
+          "id": "ckru48cuj3mcq4sz",
+          "name": "Ранг 5",
+          "description": "",
+          "range": "1970-3120"
+        },
+        {
+          "id": "h3v5va8t0ui0oapp",
+          "name": "Ранг 6",
+          "description": "",
+          "range": "3120-4420"
+        },
+        {
+          "id": "0wqgvfndrikdtfep",
+          "name": "Ранг 7",
+          "description": "",
+          "range": "4420-5920"
+        },
+        {
+          "id": "lkfsn5w8rd4kwi9p",
+          "name": "Ранг 8",
+          "description": "",
+          "range": "5920-7570"
+        },
+        {
+          "id": "tpjo4offvgbozi7p",
+          "name": "Ранг 9",
+          "description": "",
+          "range": "7570+"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "ayjz5bv1iwkzbu7y",
+      "admin_id": "strength",
+      "name": "Сила",
+      "description": "Каждые 10% силы прибавляют + 1 кг к переносимому весу инвентаря. То есть при 0% силы вы сможете носить без перевеса 20 кг, от 20 до 40 кг будет перевес. То есть при прокачке силы на 100%, будут всё те же 30 кг инвентаря. 30-40 кг = перегруз. При покупке стартер пака сила прокачивается на 100% и у вас сразу 30 кг инвентаря (от 30 до 40 кг это перегруз). С факультетом физкультуры будет + 2 кг инвентаря, то есть инвентарь с факультетом и прокачанной силой будет 32 кг без перегруза, а от 32 до 42 кг будет перегруз",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "o2nrhrll6w0fwjkj",
+          "name": "",
+          "description": "",
+          "range": "0-100"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "4gp10v7ihb4vhqwt",
+      "admin_id": "stealth_ability",
+      "name": "Скрытность",
+      "description": "При максимальном уровне навыка 20% шанс на то что при взломе зажигания в автоугоне госники не получат уведомление. Навык прокачивается при функциональной потере розыска, 1 звезда - 1% навыка ",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "p2ojn257vsflg2en",
+          "name": "",
+          "description": "",
+          "range": "0-100"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "y41ws9gfui5yv3nf",
+      "admin_id": "shooting_ability",
+      "name": "Стрельба",
+      "description": "Навык улучшает скорость перезарядки и точность стрельбы. Навык улучшается с каждым выстрелом из любого вида оружия. Чем выше скорострельность оружия - тем быстрее прокачивается навык. Лучше всего его прокачивать в \"Тире\", он находится в Оружейном магазине #1",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "8ex6jtvavl8hztmi",
+          "name": "",
+          "description": "",
+          "range": "0-100"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "untc6kw1mvckmckd",
+      "admin_id": "constructor",
+      "name": "Строитель",
+      "description": "Работа включает несколько разных задач, все станции связаны между собой, и любой игрок может выполнять любую из них. Стройка - это единая цепочка процессов, связанная между собой: Телегой доставляют доски к лифту - Лифтом поднимают доски на этажи - На этажах рабочие шлифуют доски - После шлифовки их забивают",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "1764083904162",
+          "name": "1 ранг",
+          "description": "",
+          "range": "0-1000"
+        },
+        {
+          "id": "1764083917472",
+          "name": "2 ранг",
+          "description": "Увеличена  зона этажа в мини игре с лифтом на втором этапе",
+          "range": "1000-3000"
+        },
+        {
+          "id": "1764083917845",
+          "name": "3 ранг",
+          "description": "Ускоряется мини-игра забивания",
+          "range": "3000-9000"
+        },
+        {
+          "id": "1764083918324",
+          "name": "4 ранг",
+          "description": "Открывается доступ к погрузчику",
+          "range": "9000-27000"
+        },
+        {
+          "id": "1764083988049",
+          "name": "5 ранг",
+          "description": "Увеличена скорость шлифовальной машинки",
+          "range": "27000+"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "soputgb03lgbpvps",
+      "admin_id": "orgcrime",
+      "name": "Сыщик",
+      "description": "Сыщик - Навык, который отвечает за скорость открывания тайника. Качается при открытии каждого тайника",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "3zycmw9fplfoneo2",
+          "name": "Ранг 1",
+          "description": "время обыска тайника сокращается на 10%",
+          "range": "0-35"
+        },
+        {
+          "id": "1uzegqsc6d20g9i1",
+          "name": "Ранг 2",
+          "description": "время обыска тайника сокращается на 15%",
+          "range": "35-100"
+        },
+        {
+          "id": "0hgq0dsl15sk763j",
+          "name": "Ранг 3",
+          "description": "время обыска тайника сокращается на 30%",
+          "range": "100-210"
+        },
+        {
+          "id": "corkwm6cv72ug22w",
+          "name": "Ранг 4",
+          "description": "время обыска тайника сокращается на 45%",
+          "range": "210-445"
+        },
+        {
+          "id": "a5qy3pyin7v2ionx",
+          "name": "Ранг 5",
+          "description": "время обыска тайника сокращается на 60%",
+          "range": "445-935"
+        },
+        {
+          "id": "emhbaakuhmbe0vf9",
+          "name": "Ранг 6",
+          "description": "время обыска тайника сокращается на 75%",
+          "range": "935+"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "ic2bqo7uawlyxdz5",
+      "admin_id": "hijacker",
+      "name": "Угонщик",
+      "description": "Угонщик - Нелегальная работа заключается в угоне и доставке определенного транспорта, который указан в СМС",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "mkefanvmfh54gedd",
+          "name": "1 ранг",
+          "description": "",
+          "range": "0-10"
+        },
+        {
+          "id": "37wch62la6nkjmq6",
+          "name": "2 ранг",
+          "description": "",
+          "range": "10-30"
+        },
+        {
+          "id": "sr9say8ddfjbgj57",
+          "name": "3 ранг",
+          "description": "",
+          "range": "30-75"
+        },
+        {
+          "id": "uhzntdqsjhlmxazo",
+          "name": "4 ранг",
+          "description": "",
+          "range": "75-190"
+        },
+        {
+          "id": "z4lkr92ux6gntpcq",
+          "name": "5 ранг",
+          "description": "",
+          "range": "190-460"
+        },
+        {
+          "id": "wg9zmbvpulkskpqu",
+          "name": "6 ранг",
+          "description": "",
+          "range": "460-1170"
+        },
+        {
+          "id": "2gketx1pdlt7r127",
+          "name": "7 ранг",
+          "description": "",
+          "range": "1170+"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "iunew71omlbqbc1f",
+      "admin_id": "farmer",
+      "name": "Фермер",
+      "description": "Работа заключается в выращивании различных культур на территории фермы",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "4ihhq9at4455dsi8",
+          "name": "Ранг 1",
+          "description": "Апельсины",
+          "range": "0-1195"
+        },
+        {
+          "id": "e2xd4g1hcszrcyxe",
+          "name": "Ранг 2",
+          "description": "Пшеница",
+          "range": "1195-1690"
+        },
+        {
+          "id": "w2i4q367uslvdipd",
+          "name": "Ранг 3",
+          "description": "Картошка",
+          "range": "1690-2450"
+        },
+        {
+          "id": "yavocpzvtewq9t6u",
+          "name": "Ранг 4",
+          "description": "Капуста",
+          "range": "2450-3640"
+        },
+        {
+          "id": "ooluvglc4h2vwxtw",
+          "name": "Ранг 5",
+          "description": "Кукуруза",
+          "range": "3640-5250"
+        },
+        {
+          "id": "4phay2zuvfotrqzk",
+          "name": "Ранг 6",
+          "description": "Тыква",
+          "range": "5250-7840"
+        },
+        {
+          "id": "0zmp0242k7y178dj",
+          "name": "Ранг 7",
+          "description": "Банан",
+          "range": "7840+"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "wqntk9lnuifuywsg",
+      "admin_id": "mining",
+      "name": "Шахтёр",
+      "description": "Работа заключается в сборе ископаемых в шахте и отвозке их в отмеченную точку",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "zq66mp0dsb5a3x3k",
+          "name": "Ранг 1",
+          "description": "",
+          "range": "0-45"
+        },
+        {
+          "id": "qcja7ockzc5dkmc0",
+          "name": "Ранг 2",
+          "description": "",
+          "range": "45-135"
+        },
+        {
+          "id": "1762824274466",
+          "name": "Ранг 3",
+          "description": "",
+          "range": "135-270"
+        },
+        {
+          "id": "1762824275153",
+          "name": "Ранг 4",
+          "description": "",
+          "range": "270-545"
+        },
+        {
+          "id": "1762824275528",
+          "name": "Ранг 5",
+          "description": "",
+          "range": "545+"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "aotr8rb3u4cc4xnb",
+      "admin_id": "electrician",
+      "name": "Электрик",
+      "description": "Она включает выезды на вызовы, поиск неисправностей, работу с мультиметром, ремонт электрических узлов и несколько уникальных мини-игр. Можно работать в одиночку или в группе от 2 до 4 человек - и эти режимы работают по-разному",
+      "category": "after",
+      "ranks": [
+        {
+          "id": "1763302038220",
+          "name": "Ранг 1",
+          "description": "",
+          "range": "0-60"
+        },
+        {
+          "id": "1763302109583",
+          "name": "Ранг 2",
+          "description": "",
+          "range": "60-180"
+        },
+        {
+          "id": "1763302109738",
+          "name": "Ранг 3",
+          "description": "",
+          "range": "180-360"
+        },
+        {
+          "id": "1763302109909",
+          "name": "Ранг 4",
+          "description": "",
+          "range": "360-550"
+        },
+        {
+          "id": "1763302110062",
+          "name": "Ранг 5",
+          "description": "",
+          "range": "550-830"
+        },
+        {
+          "id": "1763302110214",
+          "name": "Ранг 6",
+          "description": "",
+          "range": "830-1270"
+        },
+        {
+          "id": "1763302110370",
+          "name": "Ранг 7",
+          "description": "",
+          "range": "1270-1925"
+        },
+        {
+          "id": "1763302110534",
+          "name": "Ранг 8",
+          "description": "",
+          "range": "1925-2925"
+        },
+        {
+          "id": "1763302113389",
+          "name": "Ранг 9",
+          "description": "",
+          "range": "2925+"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    }
+  ]
+}
