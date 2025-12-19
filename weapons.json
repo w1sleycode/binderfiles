@@ -1,0 +1,2463 @@
+{
+  "count": 53,
+  "data": [
+    {
+      "id": "afey4pjlwlroa4lj",
+      "admin_id": "weapon_autoshotgun",
+      "title": "Автоматический дробовик",
+      "description": "",
+      "ammo_title": "12ga Buckshots",
+      "cells": "3x2",
+      "damage_head": "Дробь",
+      "damage_body": "Дробь",
+      "weight": "3 kg",
+      "origins": [
+        {
+          "id": "fhg6791",
+          "type": "all",
+          "title": "-"
+        }
+      ],
+      "modifiers": [],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "skwep0iq4hklxyxl",
+      "admin_id": "weapon_battlerifle",
+      "title": "Боевая винтовка",
+      "description": "",
+      "ammo_title": "5.56x45mm",
+      "cells": "4x2",
+      "damage_head": "24",
+      "damage_body": "16",
+      "weight": "3.0 kg",
+      "origins": [
+        {
+          "id": "f55l75g",
+          "type": "crime",
+          "title": "40 матов"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "7t2h0gfk8pbwx6qb",
+      "admin_id": "weapon_combatshotgun",
+      "title": "Боевой дробовик",
+      "description": "",
+      "ammo_title": "12ga Buckshots",
+      "cells": "5x2",
+      "damage_head": "Дробь",
+      "damage_body": "Дробь",
+      "weight": "3.3 kg",
+      "origins": [
+        {
+          "id": "cd5y3e0",
+          "type": "all",
+          "title": "Эксклюзив"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "ru41grocz87otug8",
+      "admin_id": "weapon_combatpdw",
+      "title": "Боевой ПОС",
+      "description": "",
+      "ammo_title": ".45ACP",
+      "cells": "4x2",
+      "damage_head": "17",
+      "damage_body": "11",
+      "weight": "1.9 kg",
+      "origins": [
+        {
+          "id": "duqxk72",
+          "type": "gos",
+          "title": "40 матов"
+        },
+        {
+          "id": "fz8zl7s",
+          "type": "all",
+          "title": "Амунация"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "14cm3c1b0kcp344c",
+          "title": "Рукоятка",
+          "desc": "Увеличивает точность при стрельбе, можно поставить на некоторые виды оружия",
+          "imageId": "items/761.png",
+          "item_id": "14cm3c1b0kcp344c",
+          "admin_id": "761"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "psbhaw68wa7c4h7f",
+          "title": "Оптический прицел",
+          "desc": "Оптический прибор, предназначенный для наводки оружия на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/763.png",
+          "item_id": "psbhaw68wa7c4h7f",
+          "admin_id": "763"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "0ue21ze1294kwby2",
+      "admin_id": "weapon_appistol",
+      "title": "Бронебойный пистолет",
+      "description": "Стреляет патронами 9x19mm,  полностью автоматический пистолет",
+      "ammo_title": "9x19mm",
+      "cells": "2x1",
+      "damage_head": "17",
+      "damage_body": "11",
+      "weight": "0.8 kg",
+      "origins": [
+        {
+          "id": "m1odrkj",
+          "type": "all",
+          "title": "Новогодний подарок"
+        },
+        {
+          "id": "7f0imlc",
+          "type": "all",
+          "title": "AirDrop"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "51o7jr8b90rjbkhe",
+      "admin_id": "weapon_vintagepistol",
+      "title": "Винтажный пистолет",
+      "description": "",
+      "ammo_title": "9x19mm",
+      "cells": "2x1",
+      "damage_head": "23",
+      "damage_body": "15",
+      "weight": "0.5 kg",
+      "origins": [
+        {
+          "id": "ufuq0yc",
+          "type": "all",
+          "title": "Амунация"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "qfb9jq6thvd73vc5",
+      "admin_id": "weapon_marksmanrifle",
+      "title": "Винтовка Marksman",
+      "description": "",
+      "ammo_title": "7.62x39mm",
+      "cells": "4x2",
+      "damage_head": "48",
+      "damage_body": "32",
+      "weight": "3.9 kg",
+      "origins": [
+        {
+          "id": "yeuzzfe",
+          "type": "all",
+          "title": "Из цехов"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "14cm3c1b0kcp344c",
+          "title": "Рукоятка",
+          "desc": "Увеличивает точность при стрельбе, можно поставить на некоторые виды оружия",
+          "imageId": "items/761.png",
+          "item_id": "14cm3c1b0kcp344c",
+          "admin_id": "761"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "psbhaw68wa7c4h7f",
+          "title": "Оптический прицел",
+          "desc": "Оптический прибор, предназначенный для наводки оружия на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/763.png",
+          "item_id": "psbhaw68wa7c4h7f",
+          "admin_id": "763"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "d6fr9f0p7dxtk0u1",
+      "admin_id": "weapon_marksmanrifle_mk2",
+      "title": "Винтовка Marksman Mk2",
+      "description": "",
+      "ammo_title": "7.62x39mm",
+      "cells": "4x2",
+      "damage_head": "51",
+      "damage_body": "34",
+      "weight": "3.7 kg",
+      "origins": [
+        {
+          "id": "labvtny",
+          "type": "gos",
+          "title": "3.000 матов"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "14cm3c1b0kcp344c",
+          "title": "Рукоятка",
+          "desc": "Увеличивает точность при стрельбе, можно поставить на некоторые виды оружия",
+          "imageId": "items/761.png",
+          "item_id": "14cm3c1b0kcp344c",
+          "admin_id": "761"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "lh7nlhcunwgiebi8",
+          "title": "Голографический прицел",
+          "desc": "Предназначен для прицеливание на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/762.png",
+          "item_id": "lh7nlhcunwgiebi8",
+          "admin_id": "762"
+        },
+        {
+          "id": "psbhaw68wa7c4h7f",
+          "title": "Оптический прицел",
+          "desc": "Оптический прибор, предназначенный для наводки оружия на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/763.png",
+          "item_id": "psbhaw68wa7c4h7f",
+          "admin_id": "763"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "abfn1i0n0nio4ozj",
+      "admin_id": "weapon_bullpuprifle",
+      "title": "Винтовка Буллпап",
+      "description": "",
+      "ammo_title": "5.56x45mm",
+      "cells": "4x2",
+      "damage_head": "20",
+      "damage_body": "13",
+      "weight": "2.5 kg",
+      "origins": [
+        {
+          "id": "938ti43",
+          "type": "all",
+          "title": "Амунация"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "14cm3c1b0kcp344c",
+          "title": "Рукоятка",
+          "desc": "Увеличивает точность при стрельбе, можно поставить на некоторые виды оружия",
+          "imageId": "items/761.png",
+          "item_id": "14cm3c1b0kcp344c",
+          "admin_id": "761"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "psbhaw68wa7c4h7f",
+          "title": "Оптический прицел",
+          "desc": "Оптический прибор, предназначенный для наводки оружия на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/763.png",
+          "item_id": "psbhaw68wa7c4h7f",
+          "admin_id": "763"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "tp0mtj1sj7ikrihr",
+      "admin_id": "weapon_bullpuprifle_mk2",
+      "title": "Винтовка Буллпап Mk2",
+      "description": "",
+      "ammo_title": "5.56x45mm",
+      "cells": "4x2",
+      "damage_head": "20",
+      "damage_body": "13",
+      "weight": "2.3 kg",
+      "origins": [
+        {
+          "id": "a2xjheg",
+          "type": "all",
+          "title": "Эксклюзив"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "14cm3c1b0kcp344c",
+          "title": "Рукоятка",
+          "desc": "Увеличивает точность при стрельбе, можно поставить на некоторые виды оружия",
+          "imageId": "items/761.png",
+          "item_id": "14cm3c1b0kcp344c",
+          "admin_id": "761"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "lh7nlhcunwgiebi8",
+          "title": "Голографический прицел",
+          "desc": "Предназначен для прицеливание на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/762.png",
+          "item_id": "lh7nlhcunwgiebi8",
+          "admin_id": "762"
+        },
+        {
+          "id": "psbhaw68wa7c4h7f",
+          "title": "Оптический прицел",
+          "desc": "Оптический прибор, предназначенный для наводки оружия на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/763.png",
+          "item_id": "psbhaw68wa7c4h7f",
+          "admin_id": "763"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "sqbjp8l5arf86b6e",
+      "admin_id": "weapon_militaryrifle",
+      "title": "Военная винтовка",
+      "description": "",
+      "ammo_title": "5.56x45mm",
+      "cells": "4x2",
+      "damage_head": "21",
+      "damage_body": "14",
+      "weight": "2.0 kg",
+      "origins": [
+        {
+          "id": "fbw7jx6",
+          "type": "gos",
+          "title": "30 матов"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "lh7nlhcunwgiebi8",
+          "title": "Голографический прицел",
+          "desc": "Предназначен для прицеливание на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/762.png",
+          "item_id": "lh7nlhcunwgiebi8",
+          "admin_id": "762"
+        },
+        {
+          "id": "psbhaw68wa7c4h7f",
+          "title": "Оптический прицел",
+          "desc": "Оптический прибор, предназначенный для наводки оружия на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/763.png",
+          "item_id": "psbhaw68wa7c4h7f",
+          "admin_id": "763"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "h023z63quqlznnt8",
+      "admin_id": "weapon_navyrevolver",
+      "title": "Военно-морской револьвер",
+      "description": "",
+      "ammo_title": ".357 Magnum",
+      "cells": "3x1",
+      "damage_head": "84",
+      "damage_body": "56",
+      "weight": "1.3 kg",
+      "origins": [
+        {
+          "id": "xfddbku",
+          "type": "all",
+          "title": "Новогодний подарок"
+        }
+      ],
+      "modifiers": [],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "66bii6ryjmyznhk7",
+      "admin_id": "weapon_dbshotgun",
+      "title": "Двуствольный дробовик",
+      "description": "",
+      "ammo_title": "12ga Buckshots",
+      "cells": "4x2",
+      "damage_head": "Дробь",
+      "damage_body": "Дробь",
+      "weight": "1.8 kg",
+      "origins": [
+        {
+          "id": "ws002fd",
+          "type": "all",
+          "title": "Амунация"
+        }
+      ],
+      "modifiers": [],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "ex9q06r3xrrskt4f",
+      "admin_id": "weapon_carbinerifle",
+      "title": "Карабинная винтовка",
+      "description": "",
+      "ammo_title": "5.56x45mm",
+      "cells": "4x2",
+      "damage_head": "20",
+      "damage_body": "13",
+      "weight": "2.6 kg",
+      "origins": [
+        {
+          "id": "0lcihkc",
+          "type": "all",
+          "title": "Амунация"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "14cm3c1b0kcp344c",
+          "title": "Рукоятка",
+          "desc": "Увеличивает точность при стрельбе, можно поставить на некоторые виды оружия",
+          "imageId": "items/761.png",
+          "item_id": "14cm3c1b0kcp344c",
+          "admin_id": "761"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "psbhaw68wa7c4h7f",
+          "title": "Оптический прицел",
+          "desc": "Оптический прибор, предназначенный для наводки оружия на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/763.png",
+          "item_id": "psbhaw68wa7c4h7f",
+          "admin_id": "763"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "vzwgyfc9t9k3nlcs",
+      "admin_id": "weapon_carbinerifle_mk2",
+      "title": "Карабинная винтовка Mk2",
+      "description": "",
+      "ammo_title": "5.56x45mm",
+      "cells": "4x2",
+      "damage_head": "23",
+      "damage_body": "15",
+      "weight": "2.3 kg",
+      "origins": [
+        {
+          "id": "0e26zou",
+          "type": "gos",
+          "title": "40 матов"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "14cm3c1b0kcp344c",
+          "title": "Рукоятка",
+          "desc": "Увеличивает точность при стрельбе, можно поставить на некоторые виды оружия",
+          "imageId": "items/761.png",
+          "item_id": "14cm3c1b0kcp344c",
+          "admin_id": "761"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "lh7nlhcunwgiebi8",
+          "title": "Голографический прицел",
+          "desc": "Предназначен для прицеливание на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/762.png",
+          "item_id": "lh7nlhcunwgiebi8",
+          "admin_id": "762"
+        },
+        {
+          "id": "psbhaw68wa7c4h7f",
+          "title": "Оптический прицел",
+          "desc": "Оптический прибор, предназначенный для наводки оружия на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/763.png",
+          "item_id": "psbhaw68wa7c4h7f",
+          "admin_id": "763"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "gxfiw3paolx4qks7",
+      "admin_id": "weapon_snspistol",
+      "title": "Карманный пистолет",
+      "description": "",
+      "ammo_title": "9x19mm",
+      "cells": "1x1",
+      "damage_head": "23",
+      "damage_body": "15",
+      "weight": "0.4 kg",
+      "origins": [
+        {
+          "id": "g79afxd",
+          "type": "all",
+          "title": "Эксклюзив"
+        }
+      ],
+      "modifiers": [],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "kc2emyri63z2szl1",
+      "admin_id": "",
+      "title": "Кольтер",
+      "description": "Револьвер - можно получить из достижений \"halloween 2025\"",
+      "ammo_title": ".357 Magnum",
+      "cells": "3x1",
+      "damage_head": "83",
+      "damage_body": "55",
+      "weight": "1.3 kg",
+      "origins": [
+        {
+          "id": "gphnmfx",
+          "type": "all",
+          "title": "Достижений \"halloween 2025\""
+        }
+      ],
+      "modifiers": [],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "mr1ph4xp06sqra7x",
+      "admin_id": "weapon_compactrifle",
+      "title": "Компактная винтовка",
+      "description": "",
+      "ammo_title": "7.62x39mm",
+      "cells": "3x3",
+      "damage_head": "18",
+      "damage_body": "12",
+      "weight": "1.8 kg",
+      "origins": [
+        {
+          "id": "sn64zcv",
+          "type": "all",
+          "title": "Эксклюзив"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "159c31na5q2c86t9",
+      "admin_id": "weapon_sawnoffshotgun",
+      "title": "Короткий дробовик",
+      "description": "",
+      "ammo_title": "12ga Buckshots",
+      "cells": "3x3",
+      "damage_head": "Дробь",
+      "damage_body": "Дробь",
+      "weight": "2.0 kg",
+      "origins": [
+        {
+          "id": "v8uwn1j",
+          "type": "crime",
+          "title": "10 матов"
+        }
+      ],
+      "modifiers": [],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "v670bu8y7odlh817",
+      "admin_id": "weapon_machinepistol",
+      "title": "Малый ПП",
+      "description": "",
+      "ammo_title": "9x19mm",
+      "cells": "3x2",
+      "damage_head": "15",
+      "damage_body": "10",
+      "weight": "1 kg",
+      "origins": [
+        {
+          "id": "pc8nqx2",
+          "type": "all",
+          "title": "Амунация"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "64n3cw6839xn61v5",
+      "admin_id": "weapon_microsmg",
+      "title": "Микро ПП",
+      "description": "",
+      "ammo_title": ".45ACP",
+      "cells": "3x3",
+      "damage_head": "17",
+      "damage_body": "11",
+      "weight": "1.4 kg",
+      "origins": [
+        {
+          "id": "4lhpox0",
+          "type": "crime",
+          "title": "20 матов"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "psbhaw68wa7c4h7f",
+          "title": "Оптический прицел",
+          "desc": "Оптический прибор, предназначенный для наводки оружия на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/763.png",
+          "item_id": "psbhaw68wa7c4h7f",
+          "admin_id": "763"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "e4uaf8928r4012cu",
+      "admin_id": "weapon_minismg",
+      "title": "Мини ПП",
+      "description": "",
+      "ammo_title": "9x19mm",
+      "cells": "3x2",
+      "damage_head": "15",
+      "damage_body": "10",
+      "weight": "1.5 kg",
+      "origins": [
+        {
+          "id": "jwftqcr",
+          "type": "all",
+          "title": "Из цехов"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "bgvmns3f6ypew0wr",
+      "admin_id": "weapon_musket",
+      "title": "Мушкет",
+      "description": "",
+      "ammo_title": "12ga Rifled",
+      "cells": "4x2",
+      "damage_head": "151",
+      "damage_body": "101",
+      "weight": "2.1 kg",
+      "origins": [
+        {
+          "id": "aeejc6h",
+          "type": "all",
+          "title": "Летний ивент"
+        }
+      ],
+      "modifiers": [],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "mgupcanp7fjsrm9d",
+      "admin_id": "weapon_doubleaction",
+      "title": "Наградной револьвер",
+      "description": "",
+      "ammo_title": ".357 Magnum",
+      "cells": "2x1",
+      "damage_head": "66",
+      "damage_body": "44",
+      "weight": "1.5 kg",
+      "origins": [
+        {
+          "id": "twsve8y",
+          "type": "gos",
+          "title": "Гос"
+        }
+      ],
+      "modifiers": [],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "svnehgafrrqt2eyx",
+      "admin_id": "weapon_marksmanpistol",
+      "title": "Пистолет Marksman",
+      "description": "",
+      "ammo_title": ".357 Magnum",
+      "cells": "3x1",
+      "damage_head": "117",
+      "damage_body": "77",
+      "weight": "2.0 kg",
+      "origins": [
+        {
+          "id": "acbrf0q",
+          "type": "all",
+          "title": "Новогодний подарок"
+        }
+      ],
+      "modifiers": [],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "ckdgiqb9xeedlhrk",
+      "admin_id": "weapon_pistol_mk2",
+      "title": "Пистолет Mk2",
+      "description": "",
+      "ammo_title": "9x19mm",
+      "cells": "2x1",
+      "damage_head": "38",
+      "damage_body": "25",
+      "weight": "0.60 kg",
+      "origins": [
+        {
+          "id": "0q0fks3",
+          "type": "gos",
+          "title": "Гос"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "1l7apysixauopjm7",
+      "admin_id": "weapon_gadgetpistol",
+      "title": "Пистолет Перико",
+      "description": "",
+      "ammo_title": ".357 Magnum",
+      "cells": "2x1",
+      "damage_head": "98",
+      "damage_body": "65",
+      "weight": "0.55 kg",
+      "origins": [
+        {
+          "id": "c38y2f4",
+          "type": "all",
+          "title": "Новогодний подарок"
+        }
+      ],
+      "modifiers": [],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "trisj70baxrr8djk",
+      "admin_id": "weapon_gusenberg",
+      "title": "Пистолет-пулемёт Томпсона",
+      "description": "",
+      "ammo_title": "9x19mm",
+      "cells": "4x2",
+      "damage_head": "21",
+      "damage_body": "14",
+      "weight": "3.6 kg",
+      "origins": [
+        {
+          "id": "igxjs1n",
+          "type": "all",
+          "title": "Семьи 25 матов"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "qme4avrdch1wcsy2",
+      "admin_id": "weapon_pumpshotgun",
+      "title": "Помповый дробовик",
+      "description": "",
+      "ammo_title": "12ga Buckshots",
+      "cells": "5x2",
+      "damage_head": "Дробь",
+      "damage_body": "Дробь",
+      "weight": "3.5 kg",
+      "origins": [
+        {
+          "id": "rzh9ow1",
+          "type": "all",
+          "title": "Амунация"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "k3vfu6h5sgfyd2bv",
+      "admin_id": "weapon_pumpshotgun_mk2",
+      "title": "Помповый дробовик Mk2",
+      "description": "",
+      "ammo_title": "12ga Buckshots",
+      "cells": "5x2",
+      "damage_head": "Дробь",
+      "damage_body": "Дробь",
+      "weight": "3.6 kg",
+      "origins": [
+        {
+          "id": "8w10si3",
+          "type": "gos",
+          "title": "20 матов"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "lh7nlhcunwgiebi8",
+          "title": "Голографический прицел",
+          "desc": "Предназначен для прицеливание на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/762.png",
+          "item_id": "lh7nlhcunwgiebi8",
+          "admin_id": "762"
+        },
+        {
+          "id": "psbhaw68wa7c4h7f",
+          "title": "Оптический прицел",
+          "desc": "Оптический прибор, предназначенный для наводки оружия на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/763.png",
+          "item_id": "psbhaw68wa7c4h7f",
+          "admin_id": "763"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "fwzzx88swnayody4",
+      "admin_id": "weapon_smg_mk2",
+      "title": "ПП Mk2",
+      "description": "",
+      "ammo_title": ".45ACP",
+      "cells": "3x3",
+      "damage_head": "20",
+      "damage_body": "13",
+      "weight": "1.6 kg",
+      "origins": [
+        {
+          "id": "7v6zog1",
+          "type": "all",
+          "title": "Амунация"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "lh7nlhcunwgiebi8",
+          "title": "Голографический прицел",
+          "desc": "Предназначен для прицеливание на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/762.png",
+          "item_id": "lh7nlhcunwgiebi8",
+          "admin_id": "762"
+        },
+        {
+          "id": "psbhaw68wa7c4h7f",
+          "title": "Оптический прицел",
+          "desc": "Оптический прибор, предназначенный для наводки оружия на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/763.png",
+          "item_id": "psbhaw68wa7c4h7f",
+          "admin_id": "763"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "khtbojg3dy27omwo",
+      "admin_id": "weapon_precisionrifle",
+      "title": "Прецизионная винтовка",
+      "description": "",
+      "ammo_title": ".50 BMG",
+      "cells": "5x2",
+      "damage_head": "136",
+      "damage_body": "90",
+      "weight": "4.1 kg",
+      "origins": [
+        {
+          "id": "cfiqtb6",
+          "type": "all",
+          "title": "Airdrop"
+        }
+      ],
+      "modifiers": [],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "i60ztwbxsye7czgd",
+      "admin_id": "weapon_mg",
+      "title": "Пулемёт Калашникова",
+      "description": "",
+      "ammo_title": "7.62x39mm",
+      "cells": "5x2",
+      "damage_head": "29",
+      "damage_body": "19",
+      "weight": "7.5 kg",
+      "origins": [
+        {
+          "id": "tnhxp5p",
+          "type": "all",
+          "title": "Эксклюзив"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "psbhaw68wa7c4h7f",
+          "title": "Оптический прицел",
+          "desc": "Оптический прибор, предназначенный для наводки оружия на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/763.png",
+          "item_id": "psbhaw68wa7c4h7f",
+          "admin_id": "763"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "1sirtvatip6aeit1",
+      "admin_id": "weapon_revolver",
+      "title": "Револьвер",
+      "description": "",
+      "ammo_title": ".357 Magnum",
+      "cells": "2x1",
+      "damage_head": "83",
+      "damage_body": "55",
+      "weight": "2.0 kg",
+      "origins": [
+        {
+          "id": "hwnjkzf",
+          "type": "crime",
+          "title": "30 матов"
+        }
+      ],
+      "modifiers": [],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "vmahp98gk6ib3ylc",
+      "admin_id": "weapon_revolver_mk2",
+      "title": "Револьвер Mk2",
+      "description": "",
+      "ammo_title": ".357 Magnum",
+      "cells": "2x1",
+      "damage_head": "98",
+      "damage_body": "65",
+      "weight": "2.5 kg",
+      "origins": [
+        {
+          "id": "yhfy42e",
+          "type": "all",
+          "title": "Airdrop"
+        },
+        {
+          "id": "txyondq",
+          "type": "all",
+          "title": "Новогодний подарок"
+        }
+      ],
+      "modifiers": [],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "oqepujnbvjgd561q",
+      "admin_id": "weapon_combatmg",
+      "title": "Ручной пулемет",
+      "description": "",
+      "ammo_title": "5.56x45mm",
+      "cells": "5x2",
+      "damage_head": "23",
+      "damage_body": "17",
+      "weight": "6.1 kg",
+      "origins": [
+        {
+          "id": "l1k0wmx",
+          "type": "crime",
+          "title": "4000"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "14cm3c1b0kcp344c",
+          "title": "Рукоятка",
+          "desc": "Увеличивает точность при стрельбе, можно поставить на некоторые виды оружия",
+          "imageId": "items/761.png",
+          "item_id": "14cm3c1b0kcp344c",
+          "admin_id": "761"
+        },
+        {
+          "id": "psbhaw68wa7c4h7f",
+          "title": "Оптический прицел",
+          "desc": "Оптический прибор, предназначенный для наводки оружия на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/763.png",
+          "item_id": "psbhaw68wa7c4h7f",
+          "admin_id": "763"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "9qjug3foo5ei7f06",
+      "admin_id": "weapon_combatmg_mk2",
+      "title": "Ручной пулемет Мk2",
+      "description": "",
+      "ammo_title": "5.56x45mm",
+      "cells": "5x2",
+      "damage_head": "26",
+      "damage_body": "17",
+      "weight": "5.7 kg",
+      "origins": [
+        {
+          "id": "y08w7ub",
+          "type": "gos",
+          "title": "2.500 матов"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "14cm3c1b0kcp344c",
+          "title": "Рукоятка",
+          "desc": "Увеличивает точность при стрельбе, можно поставить на некоторые виды оружия",
+          "imageId": "items/761.png",
+          "item_id": "14cm3c1b0kcp344c",
+          "admin_id": "761"
+        },
+        {
+          "id": "psbhaw68wa7c4h7f",
+          "title": "Оптический прицел",
+          "desc": "Оптический прибор, предназначенный для наводки оружия на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/763.png",
+          "item_id": "psbhaw68wa7c4h7f",
+          "admin_id": "763"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "pnpzrrwoiu2lqshe",
+      "admin_id": "weapon_sniperrifle",
+      "title": "Снайперская винтовка",
+      "description": "",
+      "ammo_title": ".50 BMG",
+      "cells": "5x2",
+      "damage_head": "83",
+      "damage_body": "55",
+      "weight": "4.1 kg",
+      "origins": [
+        {
+          "id": "yar0y45",
+          "type": "all",
+          "title": "Эксклюзив"
+        }
+      ],
+      "modifiers": [],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "s02j25gv8wx10ung",
+      "admin_id": "weapon_specialcarbine",
+      "title": "Специальный карабин",
+      "description": "",
+      "ammo_title": "7.62x39mm",
+      "cells": "4x2",
+      "damage_head": "20",
+      "damage_body": "13",
+      "weight": "2.7 kg",
+      "origins": [
+        {
+          "id": "kv47km6",
+          "type": "all",
+          "title": "Амунация"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "14cm3c1b0kcp344c",
+          "title": "Рукоятка",
+          "desc": "Увеличивает точность при стрельбе, можно поставить на некоторые виды оружия",
+          "imageId": "items/761.png",
+          "item_id": "14cm3c1b0kcp344c",
+          "admin_id": "761"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "psbhaw68wa7c4h7f",
+          "title": "Оптический прицел",
+          "desc": "Оптический прибор, предназначенный для наводки оружия на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/763.png",
+          "item_id": "psbhaw68wa7c4h7f",
+          "admin_id": "763"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "90fw96z6h8wz8u5k",
+      "admin_id": "weapon_specialcarbine_mk2",
+      "title": "Специальный карабин Mk2",
+      "description": "",
+      "ammo_title": "7.62x39mm",
+      "cells": "4x2",
+      "damage_head": "23",
+      "damage_body": "15",
+      "weight": "3.0 kg",
+      "origins": [
+        {
+          "id": "x9qcito",
+          "type": "gos",
+          "title": "50 матов"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "14cm3c1b0kcp344c",
+          "title": "Рукоятка",
+          "desc": "Увеличивает точность при стрельбе, можно поставить на некоторые виды оружия",
+          "imageId": "items/761.png",
+          "item_id": "14cm3c1b0kcp344c",
+          "admin_id": "761"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "lh7nlhcunwgiebi8",
+          "title": "Голографический прицел",
+          "desc": "Предназначен для прицеливание на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/762.png",
+          "item_id": "lh7nlhcunwgiebi8",
+          "admin_id": "762"
+        },
+        {
+          "id": "psbhaw68wa7c4h7f",
+          "title": "Оптический прицел",
+          "desc": "Оптический прибор, предназначенный для наводки оружия на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/763.png",
+          "item_id": "psbhaw68wa7c4h7f",
+          "admin_id": "763"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "o5rek4q0ijx5v1ue",
+      "admin_id": "weapon_tacticalrifle",
+      "title": "Тактическая винтовка",
+      "description": "",
+      "ammo_title": "5.56x45mm",
+      "cells": "4x2",
+      "damage_head": "21",
+      "damage_body": "14",
+      "weight": "2.5 kg",
+      "origins": [
+        {
+          "id": "f7fj6d3",
+          "type": "crime",
+          "title": "30 матов"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "14cm3c1b0kcp344c",
+          "title": "Рукоятка",
+          "desc": "Увеличивает точность при стрельбе, можно поставить на некоторые виды оружия",
+          "imageId": "items/761.png",
+          "item_id": "14cm3c1b0kcp344c",
+          "admin_id": "761"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "te3y6vrgjty0lo8l",
+      "admin_id": "weapon_tecpistol",
+      "title": "Тактический ПП",
+      "description": "",
+      "ammo_title": ".45ACP",
+      "cells": "3x3",
+      "damage_head": "17",
+      "damage_body": "11",
+      "weight": "1.5 kg",
+      "origins": [
+        {
+          "id": "4qmg42d",
+          "type": "gos",
+          "title": "20 матов"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "tqrkw0n2zwddtgi2",
+      "admin_id": "weapon_heavyrifle",
+      "title": "Тяжёлая винтовка",
+      "description": "",
+      "ammo_title": "7.62x39mm",
+      "cells": "4x2",
+      "damage_head": "24",
+      "damage_body": "16",
+      "weight": "3.3 kg",
+      "origins": [
+        {
+          "id": "tqph7tj",
+          "type": "gos",
+          "title": "50 матов"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "14cm3c1b0kcp344c",
+          "title": "Рукоятка",
+          "desc": "Увеличивает точность при стрельбе, можно поставить на некоторые виды оружия",
+          "imageId": "items/761.png",
+          "item_id": "14cm3c1b0kcp344c",
+          "admin_id": "761"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "psbhaw68wa7c4h7f",
+          "title": "Оптический прицел",
+          "desc": "Оптический прибор, предназначенный для наводки оружия на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/763.png",
+          "item_id": "psbhaw68wa7c4h7f",
+          "admin_id": "763"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "bigp2xk8dc9nqo3x",
+      "admin_id": "weapon_heavysniper",
+      "title": "Тяжелая снайперская винтовка",
+      "description": "",
+      "ammo_title": ".50 BMG",
+      "cells": "5x2",
+      "damage_head": "151",
+      "damage_body": "101",
+      "weight": "4.5 kg",
+      "origins": [
+        {
+          "id": "c2xprjj",
+          "type": "gos",
+          "title": "10.000 матов"
+        }
+      ],
+      "modifiers": [],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "qk1aezlz4889rpoe",
+      "admin_id": "weapon_heavysniper_mk2",
+      "title": "Тяжелая снайперская винтовка Mk2",
+      "description": "",
+      "ammo_title": ".50 BMG",
+      "cells": "5x2",
+      "damage_head": "226",
+      "damage_body": "151",
+      "weight": "8 kg",
+      "origins": [
+        {
+          "id": "rpn061x",
+          "type": "gos",
+          "title": "20.000 матов"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "gxpi17ucg6vfqfm2",
+      "admin_id": "weapon_heavyshotgun",
+      "title": "Тяжелый дробовик",
+      "description": "",
+      "ammo_title": "12ga Rifled",
+      "cells": "5x2",
+      "damage_head": "60",
+      "damage_body": "40",
+      "weight": "3.4 kg",
+      "origins": [
+        {
+          "id": "r1ha7bd",
+          "type": "crime",
+          "title": "40 матов"
+        },
+        {
+          "id": "12frw6p",
+          "type": "gos",
+          "title": "40 матов"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "14cm3c1b0kcp344c",
+          "title": "Рукоятка",
+          "desc": "Увеличивает точность при стрельбе, можно поставить на некоторые виды оружия",
+          "imageId": "items/761.png",
+          "item_id": "14cm3c1b0kcp344c",
+          "admin_id": "761"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "9mhyu2bxbupdn0kk",
+      "admin_id": "weapon_heavypistol",
+      "title": "Тяжелый пистолет",
+      "description": "",
+      "ammo_title": "9x19mm",
+      "cells": "2x1",
+      "damage_head": "33",
+      "damage_body": "22",
+      "weight": "0.8 kg",
+      "origins": [
+        {
+          "id": "pfx1nh9",
+          "type": "all",
+          "title": "Амунация"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "me3avxo5drzcltln",
+      "admin_id": "weapon_advancedrifle",
+      "title": "Улучшенная винтовка",
+      "description": "",
+      "ammo_title": "5.56x45mm",
+      "cells": "4x2",
+      "damage_head": "21",
+      "damage_body": "14",
+      "weight": "2.4 kg",
+      "origins": [
+        {
+          "id": "ndzsj37",
+          "type": "all",
+          "title": "Эксклюзив"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "psbhaw68wa7c4h7f",
+          "title": "Оптический прицел",
+          "desc": "Оптический прибор, предназначенный для наводки оружия на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/763.png",
+          "item_id": "psbhaw68wa7c4h7f",
+          "admin_id": "763"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "ua24qfnma22y3jq2",
+      "admin_id": "weapon_assaultrifle",
+      "title": "Штурмовая винтовка",
+      "description": "",
+      "ammo_title": "7.62x39mm",
+      "cells": "5x2",
+      "damage_head": "22",
+      "damage_body": "15",
+      "weight": "2.5 kg",
+      "origins": [
+        {
+          "id": "4juxmqo",
+          "type": "crime",
+          "title": "15 матов"
+        },
+        {
+          "id": "m4monw6",
+          "type": "all",
+          "title": "Амунация"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "14cm3c1b0kcp344c",
+          "title": "Рукоятка",
+          "desc": "Увеличивает точность при стрельбе, можно поставить на некоторые виды оружия",
+          "imageId": "items/761.png",
+          "item_id": "14cm3c1b0kcp344c",
+          "admin_id": "761"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "psbhaw68wa7c4h7f",
+          "title": "Оптический прицел",
+          "desc": "Оптический прибор, предназначенный для наводки оружия на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/763.png",
+          "item_id": "psbhaw68wa7c4h7f",
+          "admin_id": "763"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "4u0q00u0kcjrppo8",
+      "admin_id": "weapon_assaultrifle_mk2",
+      "title": "Штурмовая винтовка Mk2",
+      "description": "",
+      "ammo_title": "7.62x39mm",
+      "cells": "4x2",
+      "damage_head": "29",
+      "damage_body": "19",
+      "weight": "2.9 kg",
+      "origins": [
+        {
+          "id": "pk0wee4",
+          "type": "crime",
+          "title": "50 матов"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "14cm3c1b0kcp344c",
+          "title": "Рукоятка",
+          "desc": "Увеличивает точность при стрельбе, можно поставить на некоторые виды оружия",
+          "imageId": "items/761.png",
+          "item_id": "14cm3c1b0kcp344c",
+          "admin_id": "761"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "lh7nlhcunwgiebi8",
+          "title": "Голографический прицел",
+          "desc": "Предназначен для прицеливание на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/762.png",
+          "item_id": "lh7nlhcunwgiebi8",
+          "admin_id": "762"
+        },
+        {
+          "id": "psbhaw68wa7c4h7f",
+          "title": "Оптический прицел",
+          "desc": "Оптический прибор, предназначенный для наводки оружия на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/763.png",
+          "item_id": "psbhaw68wa7c4h7f",
+          "admin_id": "763"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "678dercbov4hvplh",
+      "admin_id": "weapon_assaultshotgun",
+      "title": "Штурмовой дробовик",
+      "description": "",
+      "ammo_title": "12ga Buckshots",
+      "cells": "5x2",
+      "damage_head": "Дробь",
+      "damage_body": "Дробь",
+      "weight": "3.1 kg",
+      "origins": [
+        {
+          "id": "44m7lc9",
+          "type": "all",
+          "title": "Амунация"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "14cm3c1b0kcp344c",
+          "title": "Рукоятка",
+          "desc": "Увеличивает точность при стрельбе, можно поставить на некоторые виды оружия",
+          "imageId": "items/761.png",
+          "item_id": "14cm3c1b0kcp344c",
+          "admin_id": "761"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "ndvoyr2w28baukq0",
+      "admin_id": "weapon_pistol50",
+      "title": "Штурмовой пистолет",
+      "description": "",
+      "ammo_title": "9x19mm",
+      "cells": "2x1",
+      "damage_head": "38",
+      "damage_body": "25",
+      "weight": "1.0 kg",
+      "origins": [
+        {
+          "id": "16ftppe",
+          "type": "crime",
+          "title": "15 матов"
+        }
+      ],
+      "modifiers": [],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    },
+    {
+      "id": "y3sdktnstdsgy8m1",
+      "admin_id": "weapon_assaultsmg",
+      "title": "Штурмовой ПП",
+      "description": "",
+      "ammo_title": ".45ACP",
+      "cells": "4x2",
+      "damage_head": "9",
+      "damage_body": "6",
+      "weight": "0.9 kg",
+      "origins": [
+        {
+          "id": "whmi9jm",
+          "type": "all",
+          "title": "Эксклюзив"
+        }
+      ],
+      "modifiers": [
+        {
+          "id": "6rk7h8sjov3xbv26",
+          "title": "Увеличенный магазин",
+          "desc": "Увеличивает количество пуль в магазине, можно поставить на некоторые виды оружия",
+          "imageId": "items/760.png",
+          "item_id": "6rk7h8sjov3xbv26",
+          "admin_id": "760"
+        },
+        {
+          "id": "wghsh6uhqxvr66g5",
+          "title": "Фонарик",
+          "desc": "Используется совместно с огнестрельным оружием для подсветки цели, можно поставить на некоторые виды оружия",
+          "imageId": "items/765.png",
+          "item_id": "wghsh6uhqxvr66g5",
+          "admin_id": "765"
+        },
+        {
+          "id": "lwbszheau7f2cilx",
+          "title": "Глушитель",
+          "desc": "Устройство, убирающее звук выстрела, можно поставить на некоторые виды оружия",
+          "imageId": "items/764.png",
+          "item_id": "lwbszheau7f2cilx",
+          "admin_id": "764"
+        },
+        {
+          "id": "psbhaw68wa7c4h7f",
+          "title": "Оптический прицел",
+          "desc": "Оптический прибор, предназначенный для наводки оружия на цель от первого лица, можно поставить на некоторые виды оружия",
+          "imageId": "items/763.png",
+          "item_id": "psbhaw68wa7c4h7f",
+          "admin_id": "763"
+        },
+        {
+          "id": "irf17kkos9f1resi",
+          "title": "Магазин бронебойных патрон",
+          "desc": "Можно поставить на любое оружие, кроме снайперских винтовок, некоторых дробовиков и некоторых пистолетов. Увеличивает пробитие брони нанося часть урона сразу по здоровью",
+          "imageId": "items/1004.png",
+          "item_id": "irf17kkos9f1resi",
+          "admin_id": "1004"
+        }
+      ],
+      "updated_at": "2025-12-19T10:09:16.000Z"
+    }
+  ]
+}
