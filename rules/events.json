@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1766671422390,
+  "updatedAt": 1768136792664,
   "data": {
     "airdrop": {
       "url": "https://forum.majestic-rp.ru/threads/pravila-voiny-za-airdrop.210836",
@@ -10,7 +10,8 @@
           "penalty": "Demorgan 90 минут / WARN",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.2",
@@ -18,7 +19,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.3",
@@ -26,7 +28,8 @@
           "penalty": "15 минут demorgan в случае нарушения",
           "exception": null,
           "explanation": null,
-          "note": "запрещен сговор с целью мирного распределение награды AirDrop'a."
+          "note": "запрещен сговор с целью мирного распределение награды AirDrop'a.",
+          "example": null
         },
         {
           "code": "1.4.1",
@@ -34,7 +37,8 @@
           "penalty": null,
           "exception": "DM, PG, TK, стрельба в зеленой зоне, nonRP drive для матовозки, р. 1, п. 4.2.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.4.2",
@@ -42,7 +46,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.5",
@@ -50,7 +55,8 @@
           "penalty": "Ban 3-10 дней / HardBan 7-30 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.6",
@@ -58,7 +64,8 @@
           "penalty": "Demorgan 45 минут всем нарушителям",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.7",
@@ -66,7 +73,8 @@
           "penalty": "WARN",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.8",
@@ -74,7 +82,8 @@
           "penalty": "Demorgan 30-60 минут",
           "exception": "конец мероприятия; матовозка (наземная техника, не более 1 шт); воздушная техника (посадка техники, а также посадка/высадка игроков в зоне запрещена); игроки, непричастные к мероприятию.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.9",
@@ -83,7 +92,8 @@
           "exception": "при активной перестрелке за зоной AirDrop'a разрешено выходить из неё, после окончания перестрелки фракция обязана вернуться обратно.",
           "explanation": null,
           "note": "выход из зоны ВЗА также будет приравниваться к не стремлению к дропу. Исключением является невозможность продолжения ВЗА из-за местоположения фракций.",
-          "note2": "пункт не распространяется на воздушную технику."
+          "note2": "пункт не распространяется на воздушную технику.",
+          "example": null
         },
         {
           "code": "1.10.1",
@@ -91,7 +101,8 @@
           "penalty": "Demorgan 45-90 минут / Ban 3-30 дней",
           "exception": "перестрелка во время мероприятия, после окончания мероприятия данный пункт правил обретает свою силу, участники обязаны разъехаться, а не стреляться друг с другом. В случае продолжительной перестрелки на прилегающей территории ВЗА, данный пункт обретает силу после окончания перестрелки между участниками.",
           "explanation": null,
-          "note": "данный пункт правил теряет свою силу по истечению 7 минут с момента окончания мероприятия либо респавна / отъезда участников фракций / семей."
+          "note": "данный пункт правил теряет свою силу по истечению 7 минут с момента окончания мероприятия либо респавна / отъезда участников фракций / семей.",
+          "example": null
         },
         {
           "code": "1.10.2",
@@ -99,7 +110,8 @@
           "penalty": null,
           "exception": null,
           "explanation": "территорией ВЗА считается как функциональная, так и прилегающая к ней зона.",
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.11",
@@ -107,7 +119,8 @@
           "penalty": "Demorgan 45 минут",
           "exception": null,
           "explanation": null,
-          "note": "все полученные предметы сотрудники государственных организаций обязаны положить на склад, в случае отсутствия данного действия, оно будет расцениваться как слив склада."
+          "note": "все полученные предметы сотрудники государственных организаций обязаны положить на склад, в случае отсутствия данного действия, оно будет расцениваться как слив склада.",
+          "example": null
         },
         {
           "code": "1.12",
@@ -115,7 +128,8 @@
           "penalty": "Demorgan 35 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.1",
@@ -123,7 +137,8 @@
           "penalty": "Demorgan 40-90 минут / Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.2",
@@ -131,7 +146,8 @@
           "penalty": "Demorgan 90 минут",
           "exception": null,
           "explanation": null,
-          "note": "не открывать AirDrop с целью перестрелки, передвижение на бронированной технике без цели участия."
+          "note": "не открывать AirDrop с целью перестрелки, передвижение на бронированной технике без цели участия.",
+          "example": null
         },
         {
           "code": "2.3",
@@ -139,7 +155,8 @@
           "penalty": "HardBan 30 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.4",
@@ -147,7 +164,8 @@
           "penalty": "Demorgan 35 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.1",
@@ -155,7 +173,8 @@
           "penalty": "Demorgan 90 минут / Ban / HardBan 3-5 дней + изъятие предмета",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.2",
@@ -163,7 +182,8 @@
           "penalty": "WARN / HardBan 2-4 дня",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.3",
@@ -171,7 +191,8 @@
           "penalty": "Ban 3-30 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.4",
@@ -179,7 +200,8 @@
           "penalty": "Demorgan 35 минут / Ban 3-30 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.5",
@@ -187,7 +209,8 @@
           "penalty": "Demorgan 35-90 минут / WARN",
           "exception": "функциональное использование \"ползать\", \"присесть\".",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.6",
@@ -195,7 +218,8 @@
           "penalty": "Ban 10 дней + изъятие содержимого",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.7",
@@ -203,7 +227,8 @@
           "penalty": "Demorgan 60-100 минут / Устный выговор + изъятие полученного",
           "exception": null,
           "explanation": "данные действия запрещены перед / во время / после мероприятия. Последнее редактирование модератором: 15.12.2025",
-          "note": null
+          "note": null,
+          "example": null
         }
       ]
     },
@@ -216,7 +241,8 @@
           "penalty": "Demorgan 90 минут / WARN",
           "exception": "сотрудники USSS, National Guard.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.2",
@@ -224,7 +250,8 @@
           "penalty": "Demorgan 35 минут",
           "exception": null,
           "explanation": null,
-          "note": "цвет фракции определяется по цвету фракционного транспорта, цвет семьи \"Основным цветом\", выбранным при изменении / создании семьи."
+          "note": "цвет фракции определяется по цвету фракционного транспорта, цвет семьи \"Основным цветом\", выбранным при изменении / создании семьи.",
+          "example": null
         },
         {
           "code": "3.4",
@@ -232,7 +259,8 @@
           "penalty": "Ban 3-10 дней / HardBan 7-30 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.5",
@@ -240,7 +268,8 @@
           "penalty": "WARN",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.6",
@@ -248,7 +277,8 @@
           "penalty": "Demorgan 100 минут",
           "exception": "конец мероприятия.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.1",
@@ -256,7 +286,8 @@
           "penalty": "Demorgan 35-90 минут / Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.2",
@@ -264,7 +295,8 @@
           "penalty": "HardBan 30 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.3",
@@ -272,7 +304,8 @@
           "penalty": "Demorgan 35 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.4",
@@ -280,7 +313,8 @@
           "penalty": "WARN / Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.1",
@@ -288,7 +322,8 @@
           "penalty": "Demorgan 90 минут / Ban / HardBan 3-5 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.2",
@@ -296,7 +331,8 @@
           "penalty": "Ban 3-30 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.3",
@@ -304,7 +340,8 @@
           "penalty": "Demorgan 35 минут / Ban 3-30 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.4",
@@ -312,7 +349,8 @@
           "penalty": "Demorgan 35-90 минут / WARN",
           "exception": "функциональное использование \"ползать\", \"присесть\".",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.5",
@@ -320,7 +358,8 @@
           "penalty": "Demorgan 60-100 минут / Устный выговор лидеру + изъятие полученного",
           "exception": null,
           "explanation": "данные действия запрещены перед / во время / после мероприятия.",
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.6",
@@ -328,7 +367,8 @@
           "penalty": "Ban 10 дней + изъятие содержимого",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         }
       ]
     },
@@ -341,7 +381,8 @@
           "penalty": null,
           "exception": "р.1, п.1.2.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.1.2",
@@ -349,7 +390,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.2",
@@ -357,7 +399,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.3",
@@ -365,7 +408,8 @@
           "penalty": null,
           "exception": "р.1, п. 9.1, 9.5.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.4",
@@ -373,7 +417,8 @@
           "penalty": "Demorgan 60 минут",
           "exception": null,
           "explanation": null,
-          "note": "в случае игнорирования перекрытия, часть материалов будет изъята."
+          "note": "в случае игнорирования перекрытия, часть материалов будет изъята.",
+          "example": null
         },
         {
           "code": "1.5",
@@ -381,7 +426,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.6",
@@ -389,7 +435,8 @@
           "penalty": "Demorgan 90 минут",
           "exception": "точки, не относящиеся к поставке; крафт - поставка технических материалов от / в LSPD, EMS; транспортировка предметов с маркетплейса (No3) в Government; транспортировка предметов из главного здания маркетплейса до особняка No1233; транспортировка предметов с маркетплейса (No2) в The Bloods Gang; транспортировка предметов с маркетплейса (No2) в LSPD; отсчет на территории SANG считается с места расположения КПП (350м необходимо соблюдать с КПП-1/КПП-2); собственный респавн криминальной организаций, которая перехватывает (она не входит в точку отсчета 350м); доставка материалов/предметов после захвата цехов/вербовки дилеров.",
           "explanation": null,
-          "note": "данный пункт правил распространяется так же для игроков без фракции / семьи, отследить расстояние можно путем проставления точки (фиолетового маркера) на карте (Esc)."
+          "note": "данный пункт правил распространяется так же для игроков без фракции / семьи, отследить расстояние можно путем проставления точки (фиолетового маркера) на карте (Esc).",
+          "example": "FIB направляется на крафт оружия, точками где запрещено нападать на поставку в радиусе 350м будут: респавн FIB, точка крафта, респавн FIB. Мимо проезжающие места загрузки / выгрузки / переработки материалов не будут приравниваться к этому правилу."
         },
         {
           "code": "1.7",
@@ -397,7 +444,8 @@
           "penalty": "Demorgan 90 минут / HardBan 3 дня",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.8",
@@ -405,7 +453,8 @@
           "penalty": "Demorgan 90 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.9.1",
@@ -413,7 +462,8 @@
           "penalty": null,
           "exception": "главные администраторы серверов вправе исключать и прерывать действие данного пункта правила, оповестить лидеров обязаны минимум за 12 часов до отмены.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.9.2",
@@ -421,7 +471,8 @@
           "penalty": "Устный выговор лидеру + изъятие содержимого",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.9.3",
@@ -429,7 +480,8 @@
           "penalty": "Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.9.4",
@@ -437,7 +489,8 @@
           "penalty": "Demorgan 90 минут + Изъятие созданного",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.9.5",
@@ -445,7 +498,8 @@
           "penalty": "Demorgan 90 минут + Изъятие созданного",
           "exception": "р.1, п. 10.1.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.10.1",
@@ -453,7 +507,8 @@
           "penalty": "Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.10.2",
@@ -461,7 +516,8 @@
           "penalty": "Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": "данная поставка не имеет ограничений по количеству перевозимых материалов, а также созданных предметов."
+          "note": "данная поставка не имеет ограничений по количеству перевозимых материалов, а также созданных предметов.",
+          "example": null
         },
         {
           "code": "1.10.3",
@@ -469,7 +525,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.11",
@@ -477,7 +534,8 @@
           "penalty": "WARN / Снятие лидера",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.12",
@@ -485,7 +543,8 @@
           "penalty": "WARN / Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.13",
@@ -493,7 +552,8 @@
           "penalty": "Demorgan 35 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.14",
@@ -501,7 +561,8 @@
           "penalty": "Demorgan 60 минут",
           "exception": null,
           "explanation": null,
-          "note": "сотрудникам государственных структур разрешено остановить колонну если увидели полноценное перекрытие от преступной группировки."
+          "note": "сотрудникам государственных структур разрешено остановить колонну если увидели полноценное перекрытие от преступной группировки.",
+          "example": null
         },
         {
           "code": "1.15",
@@ -509,7 +570,8 @@
           "penalty": "Demorgan 90 минут / WARN",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.16",
@@ -517,7 +579,8 @@
           "penalty": "Demorgan 60 минут + изъятие доставленных материалов",
           "exception": "доставка оружейных материалов с точки загрузки на территорию Форта-Занкудо для поставки SANG.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.17",
@@ -525,7 +588,8 @@
           "penalty": "Строгий выговор лидеру / Снятие лидера",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.18",
@@ -533,7 +597,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.19",
@@ -541,7 +606,8 @@
           "penalty": "Demorgan 90 минут / Ban 5-10 дней / Hardban 3-7 дней + изъятие содержимого матовозки",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.20",
@@ -549,7 +615,8 @@
           "penalty": "Ban 5-7 дней / Hardban 3-7 дней / Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.1.1",
@@ -557,7 +624,8 @@
           "penalty": "Demorgan 45 минут / Устный выговор лидерам",
           "exception": "р.1, п.1.2.",
           "explanation": null,
-          "note": "включая SANG."
+          "note": "включая SANG.",
+          "example": null
         },
         {
           "code": "2.1.2",
@@ -565,7 +633,8 @@
           "penalty": "Demorgan 45 минут / Устный выговор лидерам",
           "exception": "окончательное кол-во участников со стороны государственных структур определяется ГА сервера.",
           "explanation": null,
-          "note": "включая SANG."
+          "note": "включая SANG.",
+          "example": null
         },
         {
           "code": "2.1.3",
@@ -573,7 +642,8 @@
           "penalty": "Устный выговор лидеру(-ам)",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.1.4",
@@ -581,7 +651,8 @@
           "penalty": "Устный выговор лидеру",
           "exception": null,
           "explanation": "SANG обязаны довести весь заказ одной единой поставкой, без разделения на несколько партий.",
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.1.5",
@@ -589,7 +660,8 @@
           "penalty": "Demorgan 45 минут",
           "exception": "доставка оружейных материалов с точки загрузки на территорию Форта-Занкудо для SANG.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.2",
@@ -597,7 +669,8 @@
           "penalty": "Demorgan 45 минут",
           "exception": "детективы под прикрытием для сбора информации, не участвующие в перестрелке.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.3",
@@ -605,7 +678,8 @@
           "penalty": "Demorgan 60 минут / Устный выговор лидерам",
           "exception": "повторное нападение на поставку.",
           "explanation": null,
-          "note": "вмешательство третьей стороны в ходе одной перестрелки считается повторным нападением."
+          "note": "вмешательство третьей стороны в ходе одной перестрелки считается повторным нападением.",
+          "example": null
         },
         {
           "code": "2.4",
@@ -613,7 +687,8 @@
           "penalty": "Устный выговор лидерам",
           "exception": null,
           "explanation": null,
-          "note": "на видео должен быть момент загрузки матовозок, оригинальный звук, качество не менее 720p, участники обязаны хранить видеозапись с поставки 72 часа и предоставить её по первому требованию администрации."
+          "note": "на видео должен быть момент загрузки матовозок, оригинальный звук, качество не менее 720p, участники обязаны хранить видеозапись с поставки 72 часа и предоставить её по первому требованию администрации.",
+          "example": null
         },
         {
           "code": "2.5",
@@ -621,7 +696,8 @@
           "penalty": "Устный выговор лидеру",
           "exception": null,
           "explanation": "в случае увиденного перекрытия или информации о перекрытии.",
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.6",
@@ -629,7 +705,8 @@
           "penalty": "WARN / Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.1",
@@ -637,7 +714,8 @@
           "penalty": "Demorgan 45 минут / Устный выговор лидеру",
           "exception": null,
           "explanation": "загрузка и транспортировка материалов должна начаться до 22:30.",
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.2",
@@ -645,7 +723,8 @@
           "penalty": "Demorgan 45 минут",
           "exception": null,
           "explanation": null,
-          "note": "запрос поддержки должен осуществляться до начала выезда колонны с Форта Занкудо."
+          "note": "запрос поддержки должен осуществляться до начала выезда колонны с Форта Занкудо.",
+          "example": null
         },
         {
           "code": "3.3",
@@ -653,7 +732,8 @@
           "penalty": "Строгий выговор лидеру",
           "exception": "в случае, если фракция, заказывающая материалы, намеренно игнорирует запросы о помощи / сопровождении от SANG, то наказание по данному пункту не выдается.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.4",
@@ -661,7 +741,8 @@
           "penalty": "Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": "на видео должен быть момент загрузки матовозок, оригинальный звук, качество не менее 720p, участники обязаны хранить видеозапись с поставки 72 часа и предоставить её по первому требованию администрации."
+          "note": "на видео должен быть момент загрузки матовозок, оригинальный звук, качество не менее 720p, участники обязаны хранить видеозапись с поставки 72 часа и предоставить её по первому требованию администрации.",
+          "example": null
         },
         {
           "code": "4.1",
@@ -669,7 +750,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.2",
@@ -677,7 +759,8 @@
           "penalty": "Demorgan 35 минут",
           "exception": null,
           "explanation": null,
-          "note": "цвет фракции определяется по цвету фракционного транспорта, цвет семьи \"Основным цветом\", выбранным при изменении / создании семьи."
+          "note": "цвет фракции определяется по цвету фракционного транспорта, цвет семьи \"Основным цветом\", выбранным при изменении / создании семьи.",
+          "example": null
         },
         {
           "code": "4.3.1",
@@ -685,7 +768,8 @@
           "penalty": "Demorgan 90 минут / Ban 5 дней + изъятие полученных материалов",
           "exception": null,
           "explanation": null,
-          "note": "при нарушении р. 4, п. 4.1 ситуация приравнивается к нападению без перекрытия."
+          "note": "при нарушении р. 4, п. 4.1 ситуация приравнивается к нападению без перекрытия.",
+          "example": null
         },
         {
           "code": "4.3.2",
@@ -693,7 +777,8 @@
           "penalty": "Demorgan 90 минут / Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.4.1",
@@ -701,7 +786,8 @@
           "penalty": "Demorgan 60 минут",
           "exception": null,
           "explanation": null,
-          "note": "автомобили должны полностью перекрывать проезжую часть дороги. Примечание*: все автомобили должны быть фракционного / семейного цвета."
+          "note": "автомобили должны полностью перекрывать проезжую часть дороги. Примечание*: все автомобили должны быть фракционного / семейного цвета.",
+          "example": null
         },
         {
           "code": "4.4.2",
@@ -709,7 +795,8 @@
           "penalty": "Demorgan 90 минут",
           "exception": "воздушная техника.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.4.3",
@@ -717,7 +804,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": "при остановке матовозки на водителя распространяются правила PG. Количество участников от нападающей криминальной организации должно быть не меньше, чем количество участников с фракции, перевозящей матовозку."
+          "note": "при остановке матовозки на водителя распространяются правила PG. Количество участников от нападающей криминальной организации должно быть не меньше, чем количество участников с фракции, перевозящей матовозку.",
+          "example": "убийство водителя, перекрытие, остановка матовозки в движении."
         },
         {
           "code": "4.5",
@@ -725,7 +813,8 @@
           "penalty": "Demorgan 35 - 90 минут / Ban 3 дня / Устный выговор лидеру / Строгий выговор лидеру / Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.6.1",
@@ -733,7 +822,8 @@
           "penalty": "Строгий выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.6.2",
@@ -741,7 +831,8 @@
           "penalty": "Demorgan 35 минут всем участникам / Строгий выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.6.3",
@@ -749,7 +840,8 @@
           "penalty": "Demorgan 45 минут / Устный выговор лидеру(-ам)",
           "exception": "окончательное кол-во участников со стороны криминальных структур определяется ГА сервера.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.6.4",
@@ -757,7 +849,8 @@
           "penalty": "Demorgan 60 минут / Устный выговор лидеру(ам)",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.7",
@@ -765,7 +858,8 @@
           "penalty": "WARN / Ban 3 дня",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.8.1",
@@ -773,7 +867,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.8.2",
@@ -781,7 +876,8 @@
           "penalty": "Demorgan 60 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.9",
@@ -790,7 +886,8 @@
           "exception": null,
           "explanation": null,
           "note": "информация должна быть IC и передана должна быть так же в IC.",
-          "note2": "полноценное видео с момента начала слежки (в случае скаута) до передачи информации другим игрокам (см. р. 4, п. 12)."
+          "note2": "полноценное видео с момента начала слежки (в случае скаута) до передачи информации другим игрокам (см. р. 4, п. 12).",
+          "example": null
         },
         {
           "code": "4.10",
@@ -798,7 +895,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.11.1",
@@ -806,7 +904,8 @@
           "penalty": "Устный выговор лидеру",
           "exception": null,
           "explanation": "считаются только успешные поставки (матовозки захвачены / материалы доставлены на свой / союзный склад).",
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.11.2",
@@ -814,7 +913,8 @@
           "penalty": "Устный выговор лидеру / Строгий выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.11.3",
@@ -822,7 +922,8 @@
           "penalty": "Demorgan 90 минут / Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.11.4",
@@ -830,7 +931,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": "наручники, кодеиновые таблетки и т.п."
         },
         {
           "code": "4.12",
@@ -838,7 +940,8 @@
           "penalty": "Устный выговор лидеру",
           "exception": null,
           "explanation": "запись должна быть с момента подготовки нападения на поставку до момента её перехвата.",
-          "note": "на видео должен быть момент загрузки матовозок, оригинальный звук, качество не менее 720p, участники обязаны хранить видеозапись с поставки 72 часа и предоставить её по первому требованию администрации."
+          "note": "на видео должен быть момент загрузки матовозок, оригинальный звук, качество не менее 720p, участники обязаны хранить видеозапись с поставки 72 часа и предоставить её по первому требованию администрации.",
+          "example": null
         },
         {
           "code": "4.13",
@@ -846,15 +949,17 @@
           "penalty": "HardBan 7-15 дней + изъятие вещей",
           "exception": null,
           "explanation": null,
-          "note": "на видео должно быть видно местоположение матовозки, сам взлом и её содержимое. Видеозапись должна иметь оригинальный звук, качество не менее 720p, участники обязаны хранить видеозапись в течение 72 часа и предоставить её по первому требованию администрации."
+          "note": "на видео должно быть видно местоположение матовозки, сам взлом и её содержимое. Видеозапись должна иметь оригинальный звук, качество не менее 720p, участники обязаны хранить видеозапись в течение 72 часа и предоставить её по первому требованию администрации.",
+          "example": null
         },
         {
           "code": "4.14",
           "title": "Во время поставки запрещено заезжать на титульные районы криминальных организаций / семей, не с целью разгрузки материалов.",
           "penalty": "Demorgan 90 минут",
-          "exception": "союзные дипломатические отношения. Последнее редактирование модератором: Понедельник в 14:17",
+          "exception": "союзные дипломатические отношения. Последнее редактирование модератором: 22.12.2025",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         }
       ]
     },
@@ -867,7 +972,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": "изменение графика должно оповещаться в лидерском чате, не менее, чем за 12 часов до самого мероприятия."
+          "note": "изменение графика должно оповещаться в лидерском чате, не менее, чем за 12 часов до самого мероприятия.",
+          "example": null
         },
         {
           "code": "1.2",
@@ -875,7 +981,8 @@
           "penalty": null,
           "exception": "PG, DM, NonRP Drive (распространяется только на езду с простреленными покрышками).",
           "explanation": "участниками мероприятия являются лишь те игроки, которые находятся в зоне мероприятия (см. рис. 1).",
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.3",
@@ -883,7 +990,8 @@
           "penalty": "Demorgan 90 минут / Ban / HardBan 3-5 дней + изъятие оружия",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.4",
@@ -891,7 +999,8 @@
           "penalty": "Demorgan 35 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.5",
@@ -899,7 +1008,8 @@
           "penalty": "Demorgan 35 - 90 минут / WARN / Устный выговор лидеру",
           "exception": "окончание мероприятия. 6 Запрещено вести огонь вне обозначенной территории (см. рис. 1).",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.7",
@@ -907,7 +1017,8 @@
           "penalty": "Demorgan 90 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.1",
@@ -915,7 +1026,8 @@
           "penalty": "Demorgan 90 минут / WARN",
           "exception": "при нападении на другую точку загрузки материалов таймер NLR сбрасывается.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.2",
@@ -923,7 +1035,8 @@
           "penalty": "Устный выговор лидеру / Строгий выговор лидеру",
           "exception": "IC информация от других сотрудников гос. фракций.",
           "explanation": null,
-          "note": "запрещено заранее патрулировать, усиливать патрули и прочие MG действия с целью нахождения информации."
+          "note": "запрещено заранее патрулировать, усиливать патрули и прочие MG действия с целью нахождения информации.",
+          "example": null
         },
         {
           "code": "2.3",
@@ -931,7 +1044,8 @@
           "penalty": "Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.4",
@@ -939,7 +1053,8 @@
           "penalty": "Устный выговор лидеру",
           "exception": "запрещено выстраивать труднопроходимые лабиринты / змейки из транспорта, запрещено выстраивать \"тоннели\" из техники.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.5",
@@ -947,7 +1062,8 @@
           "penalty": "Demorgan 35 минут",
           "exception": null,
           "explanation": null,
-          "note": "выйти из техники, пострелять по нападающей стороне, а затем обратно сесть в технику, приравнивается к стрельбе из транспорта."
+          "note": "выйти из техники, пострелять по нападающей стороне, а затем обратно сесть в технику, приравнивается к стрельбе из транспорта.",
+          "example": null
         },
         {
           "code": "3.1",
@@ -955,7 +1071,8 @@
           "penalty": "WARN / Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.2",
@@ -963,7 +1080,8 @@
           "penalty": "Demorgan 45 минут / Устный выговор лидерам / WARN",
           "exception": "окончательное кол-во участников со стороны государственных структур определяется главным куратором государственных фракций, а так же ГА / ЗГА определенного сервера.",
           "explanation": null,
-          "note": "оказывать помощь могут сотрудники FIB, LSPD, LSCSD."
+          "note": "оказывать помощь могут сотрудники FIB, LSPD, LSCSD.",
+          "example": null
         },
         {
           "code": "3.3",
@@ -971,7 +1089,8 @@
           "penalty": "WARN / Устный выговор лидерам",
           "exception": null,
           "explanation": null,
-          "note": "запрещено перекрывать дорогу на территории мероприятия (см. рис. 1)."
+          "note": "запрещено перекрывать дорогу на территории мероприятия (см. рис. 1).",
+          "example": null
         },
         {
           "code": "3.4",
@@ -979,7 +1098,8 @@
           "penalty": "Demorgan 90 минут / Устный выговор лидерам",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.5",
@@ -987,7 +1107,8 @@
           "penalty": "Demorgan 35 минут",
           "exception": "после нападения на территорию Форта-Занкудо разрешено задержать максимум 5 игроков для проведения дальнейшего допроса.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.6",
@@ -995,7 +1116,8 @@
           "penalty": "Demorgan 35 минут",
           "exception": "после окончания мероприятия разрешен взлом матовозки.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.1",
@@ -1003,7 +1125,8 @@
           "penalty": "Demorgan 90 минут / Строгий выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.2",
@@ -1011,7 +1134,8 @@
           "penalty": "Demorgan 60 минут / Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.3",
@@ -1019,7 +1143,8 @@
           "penalty": "Demorgan 60 минут / Строгий выговор лидеру",
           "exception": "окончательное максимальное кол-во участников со стороны криминальных структур определяется ГА / ЗГА сервера. Если ГА / ЗГА не сообщили о финальном количестве участников, то оно равняется 80.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.4",
@@ -1027,7 +1152,8 @@
           "penalty": "WARN",
           "exception": null,
           "explanation": null,
-          "note": "см. рис. 1, красная зона - территория Форта-Занкудо."
+          "note": "см. рис. 1, красная зона - территория Форта-Занкудо.",
+          "example": null
         },
         {
           "code": "4.5",
@@ -1035,7 +1161,8 @@
           "penalty": "Demorgan 90 минут всем участникам / Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.6",
@@ -1043,7 +1170,8 @@
           "penalty": "Demorgan 90 минут всем участникам / Строгий выговор лидеру + Изъятие материалов",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.7",
@@ -1051,7 +1179,8 @@
           "penalty": "Demorgan 15 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.8",
@@ -1059,7 +1188,8 @@
           "penalty": "Demorgan 35 минут + уничтожение матовозки / изъятие материалов",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.9",
@@ -1067,7 +1197,8 @@
           "penalty": "Demorgan 60 минут / Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.10",
@@ -1075,7 +1206,8 @@
           "penalty": "Demorgan 35-90 минут",
           "exception": "матовозки (speedo/bobcat/guardian).",
           "explanation": null,
-          "note": "см. рис. 1."
+          "note": "см. рис. 1.",
+          "example": null
         },
         {
           "code": "4.11",
@@ -1083,7 +1215,8 @@
           "penalty": "WARN",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.12",
@@ -1091,7 +1224,8 @@
           "penalty": "WARN",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.13",
@@ -1099,7 +1233,8 @@
           "penalty": "Demorgan 35-90 минут / Устный выговор лидеру",
           "exception": null,
           "explanation": "за бездействие считается длительное нахождение на ФЗ после загрузки материалов, захват точек с целью перестрелок и прочее.",
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.14",
@@ -1107,7 +1242,8 @@
           "penalty": "Demorgan 35-90 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.15",
@@ -1115,7 +1251,8 @@
           "penalty": "Demorgan 90 минут / Строгий выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.16",
@@ -1123,7 +1260,8 @@
           "penalty": "Demorgan 90 минут / Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.17",
@@ -1131,7 +1269,8 @@
           "penalty": "WARN / Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.18",
@@ -1139,7 +1278,8 @@
           "penalty": "Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": "на видео должен быть оригинальный звук, качество не менее 720p, участники обязаны хранить видеозапись 72 часа и предоставить её по первому требованию администрации."
+          "note": "на видео должен быть оригинальный звук, качество не менее 720p, участники обязаны хранить видеозапись 72 часа и предоставить её по первому требованию администрации.",
+          "example": null
         },
         {
           "code": "4.19",
@@ -1147,7 +1287,8 @@
           "penalty": "Demorgan на 60 минут / Устный выговор лидеру + изъятие материалов",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.20",
@@ -1155,7 +1296,8 @@
           "penalty": "Устный выговор лидеру + изъятие полученного",
           "exception": null,
           "explanation": null,
-          "note": "Узнать информацию о активных заморозках можно в discord-канале Families, или Collection of criminal fractions."
+          "note": "Узнать информацию о активных заморозках можно в discord-канале Families, или Collection of criminal fractions.",
+          "example": null
         },
         {
           "code": "4.21",
@@ -1163,7 +1305,8 @@
           "penalty": "Demorgan 90 минут / Строгий выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         }
       ]
     },
@@ -1176,7 +1319,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.2",
@@ -1184,7 +1328,8 @@
           "penalty": null,
           "exception": "PG, DM, NonRP Drive (распространяется только на езду с простреленными покрышками).",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.3",
@@ -1192,7 +1337,8 @@
           "penalty": "Demorgan 90 минут / Ban / HardBan 3-5 дней + изъятие оружия",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.4",
@@ -1200,7 +1346,8 @@
           "penalty": "Demorgan 35 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.5",
@@ -1208,7 +1355,8 @@
           "penalty": "Demorgan 90 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.6",
@@ -1216,7 +1364,8 @@
           "penalty": null,
           "exception": "ответный огонь, можно стрелять только в человека, который открыл стрельбу с территории особняка.",
           "explanation": null,
-          "note": "наказание выдается, как за SK."
+          "note": "наказание выдается, как за SK.",
+          "example": null
         },
         {
           "code": "1.7",
@@ -1224,7 +1373,8 @@
           "penalty": "Demorgan 35-90 минут / WARN",
           "exception": "функциональное использование \"ползать\", \"присесть\".",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.8",
@@ -1232,7 +1382,8 @@
           "penalty": "Demorgan 90 минут / Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.9",
@@ -1240,7 +1391,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.1",
@@ -1248,7 +1400,8 @@
           "penalty": "Demorgan 60-90 минут",
           "exception": "после нападения на территорию Кайо-Перико разрешено задержать максимум 3 игроков для проведения дальнейшего допроса.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.2",
@@ -1256,7 +1409,8 @@
           "penalty": "Demorgan 35 минут",
           "exception": "окончание мероприятия.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.3",
@@ -1264,7 +1418,8 @@
           "penalty": "Demorgan 35 минут",
           "exception": "фракционная летная техника на острове Кайо-Перико.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.4",
@@ -1272,7 +1427,8 @@
           "penalty": "Demorgan 90 минут / WARN",
           "exception": "при нападении на другую точку загрузки материалов таймер NLR сбрасывается.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.1",
@@ -1280,7 +1436,8 @@
           "penalty": "Demorgan 90 минут / Строгий выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.2",
@@ -1288,7 +1445,8 @@
           "penalty": "Demorgan 60 минут / Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.3",
@@ -1296,7 +1454,8 @@
           "penalty": "Demorgan 60 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.4",
@@ -1304,7 +1463,8 @@
           "penalty": "Demorgan 60 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.5",
@@ -1312,7 +1472,8 @@
           "penalty": "Demorgan 35-90 минут / Устный выговор лидеру",
           "exception": null,
           "explanation": "за бездействие считается длительное нахождение на территории острова / точки после захвата материалов, захват точек с целью перестрелок и прочее.",
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.6",
@@ -1320,7 +1481,8 @@
           "penalty": "Demorgan 35 минут / Строгий выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.7",
@@ -1328,7 +1490,8 @@
           "penalty": "Demorgan 90 минут / Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": "опираясь на правила перехвата военных поставок."
+          "note": "опираясь на правила перехвата военных поставок.",
+          "example": null
         },
         {
           "code": "3.8",
@@ -1336,7 +1499,8 @@
           "penalty": "WARN / Беседа / Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.9",
@@ -1344,7 +1508,8 @@
           "penalty": "Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": "на видео должен быть оригинальный звук, качество не менее 720p, участники обязаны хранить видеозапись 72 часа и предоставить её по первому требованию администрации."
+          "note": "на видео должен быть оригинальный звук, качество не менее 720p, участники обязаны хранить видеозапись 72 часа и предоставить её по первому требованию администрации.",
+          "example": null
         },
         {
           "code": "3.10",
@@ -1352,7 +1517,8 @@
           "penalty": "Demorgan 90 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": "контролировать территорию входа/выхода из особняка."
         },
         {
           "code": "3.11",
@@ -1360,7 +1526,8 @@
           "penalty": "Demorgan 90 минут / Устный выговор лидеру",
           "exception": null,
           "explanation": null,
-          "note": "отсчет / сброс начинается с 00:00."
+          "note": "отсчет / сброс начинается с 00:00.",
+          "example": null
         },
         {
           "code": "3.12",
@@ -1368,7 +1535,8 @@
           "penalty": "Demorgan 90 минут / Устный выговор лидеру",
           "exception": "перестрелка, после её окончания и происшествия 30 минут с начала захвата, необходимо покинуть точку.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.13",
@@ -1376,7 +1544,8 @@
           "penalty": "Demorgan 35 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.14",
@@ -1384,7 +1553,8 @@
           "penalty": "Устный выговор лидеру + изъятие полученного",
           "exception": null,
           "explanation": null,
-          "note": "Узнать информацию о активных заморозках можно в discord-канале Families, или Collection of criminal fractions. image.pngappolo · 08.07.2022 в 14:12 \"> Рис. 1. Последнее редактирование модератором: 15.12.2025"
+          "note": "Узнать информацию о активных заморозках можно в discord-канале Families, или Collection of criminal fractions. image.pngappolo · 08.07.2022 в 14:12 \"> Рис. 1. Последнее редактирование модератором: 15.12.2025",
+          "example": null
         }
       ]
     },
@@ -1397,7 +1567,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.1.2",
@@ -1405,7 +1576,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.2",
@@ -1413,7 +1585,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.3",
@@ -1421,7 +1594,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.4",
@@ -1429,7 +1603,8 @@
           "penalty": "Demorgan 35 минут / Устный выговор лидеру / Заморозка семьи на 7 дней",
           "exception": "одобрение гл. куратора.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.5",
@@ -1437,7 +1612,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.6",
@@ -1445,7 +1621,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": "финальное решение остаётся за главным куратором, что проводит мероприятие."
+          "note": "финальное решение остаётся за главным куратором, что проводит мероприятие.",
+          "example": null
         },
         {
           "code": "2.1",
@@ -1453,7 +1630,8 @@
           "penalty": "Demorgan 15-60 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.2",
@@ -1461,7 +1639,8 @@
           "penalty": "Demorgan 25 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.3",
@@ -1469,7 +1648,8 @@
           "penalty": "Demorgan 25 минут / WARN",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.4",
@@ -1477,7 +1657,8 @@
           "penalty": "Demorgan 15 минут",
           "exception": null,
           "explanation": null,
-          "note": "цвет фракции определяется по цвету фракционного транспорта, цвет семьи \"Основным цветом\", выбранным при изменении / создании семьи."
+          "note": "цвет фракции определяется по цвету фракционного транспорта, цвет семьи \"Основным цветом\", выбранным при изменении / создании семьи.",
+          "example": null
         },
         {
           "code": "2.5",
@@ -1485,7 +1666,8 @@
           "penalty": "Demorgan 35 минут / Дисквалификация",
           "exception": "запрещено занимать крышу главного ангара, запрещено занимать 2 этаж главного ангара больше 5-ти минут (можно занимать только один раз за мероприятие); запрещено занимать крыши зданий больше 5-ти минут (можно занимать только один раз за мероприятие).",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.1",
@@ -1493,7 +1675,8 @@
           "penalty": "Kick / Demorgan 30-100 минут / Дисквалификация",
           "exception": null,
           "explanation": null,
-          "note": "правило вступает в силу за 10 минут до начала мероприятия."
+          "note": "правило вступает в силу за 10 минут до начала мероприятия.",
+          "example": "провокация любых конфликтов, стрельба, надевание стяжек/наручников и т.п."
         },
         {
           "code": "3.2",
@@ -1501,7 +1684,8 @@
           "penalty": "Demorgan 90 минут / WARN",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.3",
@@ -1509,7 +1693,8 @@
           "penalty": "Demorgan 15-90 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.4",
@@ -1517,7 +1702,8 @@
           "penalty": "Demorgan 60-100 минут / WARN + изъятие полученного",
           "exception": null,
           "explanation": "данные действия запрещены перед / во время / после мероприятия.",
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.5",
@@ -1525,7 +1711,8 @@
           "penalty": "Устный выговор обеим организациям / Заморозка семьи на 7 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.6",
@@ -1533,7 +1720,8 @@
           "penalty": "WARN",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.7",
@@ -1541,7 +1729,8 @@
           "penalty": "Demorgan 100 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.8",
@@ -1549,7 +1738,8 @@
           "penalty": "Demorgan 35-90 минут / WARN",
           "exception": "функциональное использование \"ползать\", \"присесть\".",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.9",
@@ -1557,7 +1747,8 @@
           "penalty": "Demorgan 35 минут",
           "exception": null,
           "explanation": null,
-          "note": "мост не относится к территории ВЗМ и стрельба с него приравнивается к стрельбе с нейтрала."
+          "note": "мост не относится к территории ВЗМ и стрельба с него приравнивается к стрельбе с нейтрала.",
+          "example": null
         },
         {
           "code": "3.10",
@@ -1565,7 +1756,8 @@
           "penalty": "Demorgan 35 минут",
           "exception": "матовозка, окончание мероприятия, уход фракции/семьи с мероприятия. PtBMs6u.pngappolo · 09.04.2020 в 16:54 \"> Рис. 1 Последнее редактирование модератором: 06.07.2025",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         }
       ]
     }
