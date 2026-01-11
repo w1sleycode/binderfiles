@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1766671967133,
+  "updatedAt": 1768136634321,
   "data": {
     "main-rules": {
       "url": "https://forum.majestic-rp.ru/threads/osnovnyye-pravila-proyekta.8036",
@@ -10,7 +10,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.2",
@@ -18,7 +19,8 @@
           "penalty": "Mute 60-240 минут",
           "exception": "отдельные слова и фразы для отыгровки роли своего персонажа.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.3",
@@ -26,7 +28,8 @@
           "penalty": null,
           "exception": null,
           "explanation": "подразумеваемое изъятие предметов происходит без участия администрации, либо других лиц, все функциональные системы автономны. Например, если Вы не успели забрать вовремя предметы после покупки на маркетплейсе, то они у Вас пропадут.",
-          "note": null
+          "note": null,
+          "example": "пропажа предметов со склада маркетплейса и т.п."
         },
         {
           "code": "1.4",
@@ -34,7 +37,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.1",
@@ -42,7 +46,8 @@
           "penalty": "Блокировка всех аккаунтов на 30 дней / PermBan",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.2",
@@ -50,7 +55,8 @@
           "penalty": "PermBan",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.3",
@@ -58,7 +64,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.4",
@@ -66,7 +73,8 @@
           "penalty": "PermBan",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.5",
@@ -74,7 +82,8 @@
           "penalty": "WARN персонажей",
           "exception": "при покупке третьего персонажа можно вступать в любые две фракции / семьи (все три персонажа должны быть созданы).",
           "explanation": "какой именно персонаж находится во фракции / семье (1 и 3, 2 и 3, либо 1 и 2) не имеет никакого значения.",
-          "note": "запрещено находится на старших / руководящих рангах в обеих фракциях."
+          "note": "запрещено находится на старших / руководящих рангах в обеих фракциях.",
+          "example": null
         },
         {
           "code": "2.6",
@@ -82,7 +91,8 @@
           "penalty": "WARN / HardBan 7 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": "игрок А находясь в семье и фракции не может участвовать 4 раза в перехвате поставки, лимит нападений для игрока А составляет 2, вне зависимости от того нападает он с фракцией или с семьей."
         },
         {
           "code": "2.7",
@@ -90,7 +100,8 @@
           "penalty": "Изъятие имущества",
           "exception": "решение ГА; в случае возникновения уважительных причин отсутствия активности возможно предупреждение ГА, с дальнейшим исключением и не изъятием имущества (только при одобрении и согласовании с ГА сервера).",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.8",
@@ -98,7 +109,8 @@
           "penalty": "Изъятие бизнесов",
           "exception": null,
           "explanation": "банкоматы не относятся к бизнесам.",
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.9",
@@ -106,7 +118,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.10",
@@ -114,7 +127,8 @@
           "penalty": "Demorgan до смены внешности персонажа",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.1.1",
@@ -122,7 +136,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.1.2",
@@ -130,7 +145,8 @@
           "penalty": null,
           "exception": null,
           "explanation": "в подобных системах запрещено любое нарушение правил сервера, начиная от запрещенных слов / контента, заканчивая оскорблением родных.",
-          "note": null
+          "note": null,
+          "example": "автомобильные номера, ID карта, удостоверение, маркетплейс, диалоги с ботами, в которых интегрированы ИИ и т.п."
         },
         {
           "code": "3.2",
@@ -138,7 +154,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.3",
@@ -146,7 +163,8 @@
           "penalty": null,
           "exception": "распространение / угрозы распространения личной информации, покупка / продажа игрового имущества за реальные деньги, распространение закрытой информации, использование / распространение / продажа запрещенного ПО, угрозы в реальной жизни и др. грубые нарушения.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.4",
@@ -154,7 +172,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": "распространение / угрозы распространения личной информации, покупка / продажа игрового имущества за реальные деньги, распространение закрытой информации, использование / распространение / продажа запрещенного ПО и др. грубые нарушения."
         },
         {
           "code": "3.5",
@@ -162,7 +181,8 @@
           "penalty": "Mute 60-120 минут / Ban 3-10 дней / HardBan 15-30 дней / PermBan",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.6.1",
@@ -170,7 +190,8 @@
           "penalty": "Ban 7-30 дней / HardBan 15-30 дней",
           "exception": null,
           "explanation": "помеха стримерам / ютуберам, порча им игрового процесса, слишком навязчивая помощь без надобности / просьб и т.п.",
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.6.2",
@@ -178,7 +199,8 @@
           "penalty": "Kick / Demorgan 15 минут / HardBan 7 дней",
           "exception": "просьба / инициатива самого стримера.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.1",
@@ -186,7 +208,8 @@
           "penalty": "Mute 90 минут / Demorgan 5 минут",
           "exception": "текстовые чаты /b (и подобные), обоюдное согласие при наличии не более 4 игроков, присутствие рядом администрации (с функциональной \"короной\"), разговоры в функциональных зеленых зонах, где преимущественное большинство игроков не против (более 75%).",
           "explanation": null,
-          "note": "вся OOC информация передается исключительно через /b, /fb, /gb и /cb чаты."
+          "note": "вся OOC информация передается исключительно через /b, /fb, /gb и /cb чаты.",
+          "example": null
         },
         {
           "code": "4.2",
@@ -194,7 +217,8 @@
           "penalty": "Ban 5-30 дней / HardBan 15 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.3",
@@ -202,7 +226,8 @@
           "penalty": "HardBan 30-60 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.4",
@@ -210,7 +235,8 @@
           "penalty": "Mute 10-60 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.5",
@@ -218,7 +244,8 @@
           "penalty": "Mute 10-60 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.6",
@@ -226,7 +253,8 @@
           "penalty": "Mute 10-120 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.7",
@@ -234,7 +262,8 @@
           "penalty": "Demorgan 15-60 минут / Ban 3-10 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.8",
@@ -242,7 +271,8 @@
           "penalty": "WARN",
           "exception": "использование голосовой рации.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.9",
@@ -250,7 +280,8 @@
           "penalty": "WARN",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.10",
@@ -258,7 +289,8 @@
           "penalty": "Mute 240 минут / WARN",
           "exception": "отдельные каналы в рации, в котором участники данного канала не возражают.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.11",
@@ -266,7 +298,8 @@
           "penalty": "Mute 120-240 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": "САНГ, НА СВЯЗЬ\"."
         },
         {
           "code": "4.12",
@@ -274,7 +307,8 @@
           "penalty": "Mute 120 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "5.1",
@@ -282,7 +316,8 @@
           "penalty": "GunBan 6 часов / Demorgan 120 минут / WARN / Ban 3-30 дней",
           "exception": "IC диалог не является обязательным фактором в следующих ситуациях: • Угроза жизни персонажу / его союзникам (игроки из фракции, семьи), а именно: прицеливание оружием в сторону игроков, нанесение ударов, намеренный наезд на персонажа / союзников транспортом. • Грубые оскорбления персонажа / его союзников (игроки из фракции, семьи). Грубым оскорблением считается: оскорбление / упоминание родственников, нации, этноса; нецензурные (матерные) оскорбления. • Угон личного транспортного средства. • Ограбление бизнеса (разрешено убийство причастных к ограблению, запрещено убийство мимо проезжающих рабочих и т.п.). Ограбление личного/семейного дома (запрещено убийство игроков непричастных к ограблению). • Точки расположения тайников в опасной и запретной зоне (остров Кайо-Перико) *распространяется только на игроков, которые получают или получили (на месте тайника) предметы с тайника. • Пролет на дроне в опасных местах (местах скопления вооруженных людей, ограбления бизнесов, поставок, перестрелке и т.п.) • Отключение камер игроками криминальных структур. • Мероприятие захват цехов / дилеров (разрешено убийство причастных к мероприятиям, запрещено убийство мимо проезжающих рабочих и т.п.) • Нарушение правил PG от игрока.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "5.2",
@@ -290,7 +325,8 @@
           "penalty": "Demorgan 30-90 минут / WARN / Ban 3-30 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "5.3",
@@ -298,7 +334,9 @@
           "penalty": "Demorgan 15-90 минут / WARN / Ban / HardBan 3-30 дней",
           "exception": null,
           "explanation": null,
-          "note": "наличие внедорожного транспорта (hummer, g63amg6x6, xclass, xclass monster-track, ram, f150, Buckingham XK, dubsta3, caracara, everon, bruiser 1/2/3, mesa3, marshall, monster, rebel, sandking SWB, guardian, sandking XL, contender, kamacho, draugur, warthog, snowshark) даёт возможность ездить по соответствующей местности, оценивая обстановку вокруг. • Fly - управление воздушным средством в невозможных для этого условиях."
+          "note": "наличие внедорожного транспорта (hummer, g63amg6x6, xclass, xclass monster-track, ram, f150, Buckingham XK, dubsta3, caracara, everon, bruiser 1/2/3, mesa3, marshall, monster, rebel, sandking SWB, guardian, sandking XL, contender, kamacho, draugur, warthog, snowshark) даёт возможность ездить по соответствующей местности, оценивая обстановку вокруг. • Fly - управление воздушным средством в невозможных для этого условиях.",
+          "example": "заезд в интерьеры зданий, езда по горам, воде, рекам, езда c пробитым(-и) колесом(-ами), езда по встречной полосе более 750 м / 15 секунд (в зависимости от ситуации), таран авто, таран легковым автомобилем более тяжелого и т.д.",
+          "example2": "низкие полеты над землей при большой скорости, близкие полеты около деревьев, пролеты под мостами. А так же совершать посадку вне предназначенных для этого местах: склоны более 40%, камни, дороги на которых в данный момент происходит оживленное движение транспортных средств и т.д."
         },
         {
           "code": "5.4",
@@ -306,7 +344,8 @@
           "penalty": "Demorgan 90 минут / WARN",
           "exception": null,
           "explanation": "после смерти персонажа, он забывает последние 15 минут своей жизни и не может использовать данную информацию.",
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "5.5",
@@ -314,7 +353,8 @@
           "penalty": "Demorgan 35-90 минут / WARN / Ban 2-7 дней",
           "exception": "на сотрудников государственных силовых структур правило работает по принципу 1х2, 2х4, но только при наличии бронежилета; п.2.2 игровых зон; п. 1.13.1 и 1.13.2 правил ограблений и похищений.",
           "explanation": null,
-          "note": "правило PG работает по принципу 1x1. 2x3 - не будет являться нарушением, 1х2 и более - PG."
+          "note": "правило PG работает по принципу 1x1. 2x3 - не будет являться нарушением, 1х2 и более - PG.",
+          "example": null
         },
         {
           "code": "5.6",
@@ -322,7 +362,8 @@
           "penalty": "GunBan 8 часов / Ban 2-5 дней / HardBan 2-7 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "5.7",
@@ -330,7 +371,8 @@
           "penalty": "GunBan 2-5 часов / Demorgan 50-120 минут / WARN / Ban 3-10 дней",
           "exception": "самооборона.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "5.8",
@@ -338,7 +380,8 @@
           "penalty": "Demorgan 20-90 минут / WARN / Ban 2-5 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "5.9",
@@ -346,7 +389,8 @@
           "penalty": "WARN / HardBan 4-8 дней",
           "exception": "согласие обеих сторон.",
           "explanation": null,
-          "note": "уход в АФК во время RP процесса, выход из игры, уход в воду / закрытый интерьер / использование дрона во время погони, так же приравнивается к уходу от RP, игнорирование отыгровок (в /do и т.д.) с упоминанием игрока через @dynamicID, использование вертикальной лестницы с целью уйти от погони."
+          "note": "уход в АФК во время RP процесса, выход из игры, уход в воду / закрытый интерьер / использование дрона во время погони, так же приравнивается к уходу от RP, игнорирование отыгровок (в /do и т.д.) с упоминанием игрока через @dynamicID, использование вертикальной лестницы с целью уйти от погони.",
+          "example": null
         },
         {
           "code": "5.10",
@@ -354,7 +398,8 @@
           "penalty": "Demorgan 15 минут",
           "exception": "самооборона, внезапный IC конфликт, при котором нет возможности надеть маску, криминальные действия в Red Zone, согласно правилам игровых зон.",
           "explanation": null,
-          "note": "борода, усы, меховые шапки (панамка овечка, маска медведя/кошки, с ушками), мужской комплект одежды #2145, женский комплект одежды #2131, панама Jacvemes и FTP без маски, маска с перфорацией не являются маской. Мужской комплект #2080 разрешено использовать в качестве маски."
+          "note": "борода, усы, меховые шапки (панамка овечка, маска медведя/кошки, с ушками), мужской комплект одежды #2145, женский комплект одежды #2131, панама Jacvemes и FTP без маски, маска с перфорацией не являются маской. Мужской комплект #2080 разрешено использовать в качестве маски.",
+          "example": null
         },
         {
           "code": "5.11",
@@ -362,7 +407,8 @@
           "penalty": "GunBan 6 часов / Ban 3-5 дней / HardBan 7 дней",
           "exception": "погоня, когда обе стороны находятся на транспортных средствах, проезд мимо.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "5.12",
@@ -370,7 +416,8 @@
           "penalty": "Demorgan 90 минут / WARN",
           "exception": "PG со стороны сотрудника EMS.",
           "explanation": null,
-          "note": "на сотрудников EMS так же распространяются правила PG, они обязаны учитывать все обстоятельства."
+          "note": "на сотрудников EMS так же распространяются правила PG, они обязаны учитывать все обстоятельства.",
+          "example": null
         },
         {
           "code": "5.13",
@@ -378,7 +425,8 @@
           "penalty": "Demorgan 35 минут / WARN",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "5.14",
@@ -386,7 +434,8 @@
           "penalty": "Изъятие спец. вооружения (Heavy Sniper, Heavy Sniper Mk2, Combat MG, Combat MG Mk2, Marksman Mk2, Sniper Rifle, Precision Rifle) + Demorgan 100 минут / Ban 2-5 дней / HardBan 3-7 дней",
           "exception": "в оружии закончилась обойма / барабан.",
           "explanation": "пункт правил распространяется только в случае смерти игрового персонажа.",
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "5.15",
@@ -394,7 +443,8 @@
           "penalty": "Demorgan 15-90 минут / Ban 2-10 дней",
           "exception": null,
           "explanation": null,
-          "note": "к спец. технике относится так же бронированный транспорт и летная техника, патрульные автомобили не считаются за спец. технику."
+          "note": "к спец. технике относится так же бронированный транспорт и летная техника, патрульные автомобили не считаются за спец. технику.",
+          "example": null
         },
         {
           "code": "5.16",
@@ -402,7 +452,8 @@
           "penalty": "Demorgan 15 - 60 минут / Ban 2 дня",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "5.17",
@@ -410,15 +461,17 @@
           "penalty": "Demorgan 35-90 минут / Ban 3-30 дней / HardBan 15-30 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "5.18",
-          "title": "Запрещены любые виды обмана на имущество (OOC сделки, IC сделки с дальнейшим обманом и т.п.), а также создание лотерей без одобрения старшего серверного состава (лотереи, кейсы, \"мистерибоксы\" и т.п.)",
+          "title": "Запрещены любые виды, а также попытки обмана на имущество (OOC сделки, IC сделки с дальнейшим обманом и т.п.), а также создание лотерей без одобрения старшего серверного состава (лотереи, кейсы, \"мистерибоксы\" и т.п.)",
           "penalty": "HardBan 30 дней / PermBan + обнуление (в т.ч. сообщникам)",
           "exception": null,
           "explanation": "все сделки должны проводиться с помощью функционала сервера, не прибегая к составлению сторонних IC / OOC договоров; пострадавшая сторона не получает возврата потерянного имущества.",
-          "note": null
+          "note": null,
+          "example": "игра в кости на имущество, игра в кости на сумму, которую не позволяет функционал проекта (10.000.001 и более), обмен имущества на 2 и более транспорта и т.п."
         },
         {
           "code": "5.19",
@@ -426,7 +479,8 @@
           "penalty": "Demorgan 60 минут / WARN / Ban 3-7 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "5.20",
@@ -434,7 +488,8 @@
           "penalty": null,
           "exception": null,
           "explanation": "под игнорированием подразумевается полное отсутствие какой-либо реакции на действия/ситуацию, запрещены провокации и агрессивные действия, в ином случае может быть выдано наказание.",
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "5.21",
@@ -442,7 +497,8 @@
           "penalty": "Demorgan 35 минут / WARN",
           "exception": "если вопрос в /do можно избежать (например, функционал обыска), то игрок в праве игнорировать подобные отыгровки.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "5.22",
@@ -450,7 +506,8 @@
           "penalty": "Demorgan 10-35 минут",
           "exception": null,
           "explanation": "если игрок отыгрывает команды некорректно то его отыгровки не считаются действительными.",
-          "note": null
+          "note": null,
+          "example": "игрок в /do задает вопрос о состоянии человека, человек отвечает с маленькой буквы и без точки в конце, люди \"не видят\" данную отыгровку (так как она некорректная), в следствии чего игроку выдается наказание за уход от РП."
         },
         {
           "code": "5.23",
@@ -458,7 +515,8 @@
           "penalty": "Demorgan 15-35 минут",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": "задавать вопросы в /do следующего характера - /do Человек является работником LSPD?"
         },
         {
           "code": "5.24",
@@ -466,7 +524,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": "/do Что у человека находится при себе? (есть функциональный обыск), /do VIN номер авто закрашен; /do Номера замазаны грязью; /do Документы утеряны, любые /do отыгровки связанные с угнанным транспортом (не даёт никаких RP последствий и/или идет в разрез функционалу)."
         },
         {
           "code": "5.25",
@@ -474,7 +533,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.1",
@@ -482,7 +542,8 @@
           "penalty": "Kick / Mute 10-60 минут / Demorgan 10-100 минут / WARN / Ban 3-30 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.2",
@@ -490,7 +551,8 @@
           "penalty": "Ban 7-30 дней / PermBan",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.3",
@@ -498,7 +560,8 @@
           "penalty": "HardBan 15-30 дней / PermBan",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.4",
@@ -506,7 +569,8 @@
           "penalty": "Ban 5-30 дней / HardBan 10-60 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.5",
@@ -514,7 +578,8 @@
           "penalty": "Ban 7-30 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.6",
@@ -522,7 +587,8 @@
           "penalty": "Ban 2 дня",
           "exception": null,
           "explanation": null,
-          "note": "автору видео(жалобы) необходимо указывать в названии видео: свой static, static нарушителя, время и дату."
+          "note": "автору видео(жалобы) необходимо указывать в названии видео: свой static, static нарушителя, время и дату.",
+          "example": null
         },
         {
           "code": "6.7",
@@ -530,7 +596,8 @@
           "penalty": "Ban 30 дней / HardBan 30 дней / PermBan",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.8",
@@ -538,7 +605,8 @@
           "penalty": "Demorgan 35 минут / WARN / Ban 3-30 дней / HardBan 3-30 дней / Permban",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.9",
@@ -546,7 +614,8 @@
           "penalty": "Ban 5-30 дней / HardBan 15-30 дней / PermBan",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.10",
@@ -554,7 +623,8 @@
           "penalty": "Ban 10-30 дней / HardBan 15-30 дней / PermBan",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.11",
@@ -562,7 +632,8 @@
           "penalty": "Ban 5-30 дней / HardBan 15-30 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.12",
@@ -570,7 +641,8 @@
           "penalty": "Demorgan 90 минут / Ban 3-15 дней / HardBan 3-15 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.13",
@@ -578,7 +650,8 @@
           "penalty": "Ban 15-30 дней / HardBan 15-30 дней / Permban",
           "exception": null,
           "explanation": null,
-          "note": "запрещены оскорбления на любых языках, а так же оскорбительные \"сленги\"."
+          "note": "запрещены оскорбления на любых языках, а так же оскорбительные \"сленги\".",
+          "example": null
         },
         {
           "code": "6.14",
@@ -586,15 +659,17 @@
           "penalty": "HardBan 30-60 дней / PermBan",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.15",
           "title": "Совершать многочисленные нарушения правил сервера.",
-          "penalty": "Ban 30 дней / HardBan 30 дней / PermBan",
+          "penalty": "Ban 15-30 дней / HardBan 15-30 дней / PermBan",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.16",
@@ -602,7 +677,8 @@
           "penalty": "PermBan",
           "exception": null,
           "explanation": null,
-          "note": "администрация имеет право сделать проверку ПК подозрительного игрока, в случае обнаружения какого-либо стороннего ПО выдается бан как за его использование. Отказ от проверки / выход во время проверки воспринимается как наличие стороннего ПО."
+          "note": "администрация имеет право сделать проверку ПК подозрительного игрока, в случае обнаружения какого-либо стороннего ПО выдается бан как за его использование. Отказ от проверки / выход во время проверки воспринимается как наличие стороннего ПО.",
+          "example": null
         },
         {
           "code": "6.17",
@@ -610,7 +686,8 @@
           "penalty": "HardBan 30 дней / PermBan",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.18",
@@ -618,7 +695,8 @@
           "penalty": "Permban",
           "exception": null,
           "explanation": null,
-          "note": "при первом обходе наказания игроку выдается ЧС сервера, на котором было совершено нарушение, при втором обходе наказания игроку выдается ЧС проекта."
+          "note": "при первом обходе наказания игроку выдается ЧС сервера, на котором было совершено нарушение, при втором обходе наказания игроку выдается ЧС проекта.",
+          "example": null
         },
         {
           "code": "6.19",
@@ -626,7 +704,8 @@
           "penalty": "HardBan 15-30 дней / PermBan",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": "сторонние ссылки, проекты GTA V, неофициальные дискорды и т.п."
         },
         {
           "code": "6.20",
@@ -634,7 +713,8 @@
           "penalty": "Ban 5-30 дней / HardBan 5-30 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.21",
@@ -642,7 +722,8 @@
           "penalty": "PermBan / HardBan 15-30 дней",
           "exception": null,
           "explanation": "любые транзакции должны происходить исключительно через официальный сайт или через F2 - Магазин, в игре.",
-          "note": "запрещена любая заинтересованность."
+          "note": "запрещена любая заинтересованность.",
+          "example": null
         },
         {
           "code": "6.22",
@@ -650,7 +731,8 @@
           "penalty": "HardBan 30 дней / PermBan + аннулирование сделки",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.23",
@@ -658,7 +740,8 @@
           "penalty": "HardBan 30 дней / PermBan",
           "exception": null,
           "explanation": null,
-          "note": "к данной информации относятся: закрытые голосовые каналы / чаты администрации, видеозаписи работы администрации от его лица и т.п."
+          "note": "к данной информации относятся: закрытые голосовые каналы / чаты администрации, видеозаписи работы администрации от его лица и т.п.",
+          "example": null
         },
         {
           "code": "6.24",
@@ -666,7 +749,8 @@
           "penalty": "HardBan 30 дней / PermBan",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.25",
@@ -674,7 +758,8 @@
           "penalty": "HardBan 30 дней / PermBan",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.26",
@@ -682,7 +767,8 @@
           "penalty": "HardBan 30 дней / PermBan",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.27",
@@ -690,7 +776,8 @@
           "penalty": "Ban 10-30 дней / HardBan 10-30 дней / PermBan",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.28",
@@ -698,7 +785,8 @@
           "penalty": "WARN / Ban 3-30 дней / HardBan 10-30 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.29",
@@ -706,7 +794,8 @@
           "penalty": "Ban 3-30 дней / HardBan 10-30 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.30",
@@ -714,7 +803,8 @@
           "penalty": "Ban 2-5 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.31",
@@ -722,7 +812,8 @@
           "penalty": "Ban 5-30 дней / HardBan 15-30 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.32",
@@ -730,7 +821,8 @@
           "penalty": "WARN / Ban 2-5 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": "бить другого игрока выполняющего задание, преграждать открытие клетки и т.п."
         },
         {
           "code": "6.33.1",
@@ -738,7 +830,8 @@
           "penalty": "HardBan 10-20 дней + изъятие предметов",
           "exception": "свап, выход из игры в наручниках (оружие изымается системой).",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.33.2",
@@ -746,7 +839,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.34",
@@ -754,7 +848,8 @@
           "penalty": "Удаление промокода + Ban 5-30 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": "реклама промокода на спавне новичков."
         },
         {
           "code": "6.35",
@@ -762,7 +857,8 @@
           "penalty": "Ban 30 дней / HardBan 30 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": "обмен виртуальной валюты на подарочный опыт боевого пропуска; покупка уровней боевого пропуска другому игроку с целью наград, которые получит игрок и т.п.."
         },
         {
           "code": "6.36",
@@ -770,15 +866,17 @@
           "penalty": "HardBan 30 дней / PermBan",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "6.37",
           "title": "Любые договорённости, сговоры и участие в аукционных торгах за имущество с целью получения его по заниженной стоимости.",
           "penalty": "Изъятие полученного имущества",
           "exception": null,
-          "explanation": "нарушением считается, если участники аукциона, имея финансовую возможность и экономически рациональное решение об участии в аукционе, намеренно упускает такую возможность с целью победы другого игрока и дальнейшего его приобретения по заниженной стоимости. Последнее редактирование модератором: Понедельник в 15:55",
-          "note": null
+          "explanation": "нарушением считается, если участники аукциона, имея финансовую возможность и экономически рациональное решение об участии в аукционе, намеренно упускает такую возможность с целью победы другого игрока и дальнейшего его приобретения по заниженной стоимости. Последнее редактирование: 31.12.2025",
+          "note": null,
+          "example": "договорённости по распределению бизнесов и отсутствие борьбы за другие лоты, разделение бизнесов между участниками аукциона и так далее."
         }
       ]
     },
@@ -791,7 +889,8 @@
           "penalty": "Demorgan 10-120 минут / WARN / Ban 3 дня",
           "exception": "террористические акты, государственный переворот, разбойное нападение на территории личного / семейного дома.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.2",
@@ -799,7 +898,8 @@
           "penalty": "GunBan 1-6 часов / Demorgan 35-120 минут / WARN / Ban / Hardban 3-30 дней",
           "exception": "ответный огонь в целях самообороны, стрельба сотрудникам государственных структур при веской IC причине, самооборона в случае нападения животных, стрельба по мишеням в тире, стрельба на территории личного дома (в целях самообороны / защиты территории).",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.3",
@@ -807,7 +907,8 @@
           "penalty": "WARN / HardBan 7 дней (в случае функционального ограбления) / PermBan (в случае ограбления и намеренной передачи денежных средств на другого (своего) персонажа / другу)",
           "exception": null,
           "explanation": null,
-          "note": "в случае ограбления/похищения наказания применяются ко всем игрокам, причастным к преступлению."
+          "note": "в случае ограбления/похищения наказания применяются ко всем игрокам, причастным к преступлению.",
+          "example": null
         },
         {
           "code": "1.4",
@@ -815,7 +916,8 @@
           "penalty": "Demorgan 20-90 минут / WARN",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.5",
@@ -823,7 +925,8 @@
           "penalty": "Mute 30-60 минут",
           "exception": "крупные мероприятия, ночные клубы, функциональный микрофон на пляже Дель-Перро, разрешение администрации, отсутствие помехи другим игрокам (с правильными и полными отыгровками, а так же обязательное наличие гитары / бумбокса).",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.6",
@@ -831,7 +934,8 @@
           "penalty": null,
           "exception": "в клубах разрешено включать музыку. Стяжки, а так же применение силы разрешено только работникам клуба.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": "игрок находится в магазине одежды который расположен в красной зоне, но имеет внутренний интерьер - Green zone, а вы находитесь вне территории магазина. В данном случае вам запрещено предпринимать к нему любые действия которые запрещены в Green zone. • Государственные учреждения: городской аэропорт, здание мэрии, полицейский департамент, департамент шерифов, EMS, FIB, автошкола, News, Департамент в Сенди-Шорс, больница в Сенди-Шорс. • Работы: инкассатор, лесоруб, мусорная переработка, пожарный, электрик, строитель, таксопарк, точки погрузки/разгрузки (всех работ, ЗЗ только для работников), почтальон, ферма, грибник, контракты и все вытекающие точки (ЗЗ только для работников), кладоискатель (ЗЗ только для работников). • Прочее: автосервисы, автомастерские, банкоматы, банки, аренды лодок и прилегающие к ним территории, прием транспорта на свалке, GunGame, казино и прилегающая к нему территория, метро, сцены, авианосец, пирс Дель-Перро, кинотеатр на пляже Дель-Перро, яхта, массовые мероприятия и наборы фракций, место появления новичков, места рыбалки, вход в дом/квартиру/офис и прилегающая территория (в красной зоне без прилегающей территории), клубы, качалка, места сдачи закладок/автомобилей/мусора, церковь и прилегающая к ней территория, зоны игры в армрестлинг, семейные склады, маркетплейс и прилегающая к нему территория, Human Labs (исключением являются стычки за тайники), обсерватория, амфитеатр и прилегающая к ним территория."
         },
         {
           "code": "2.1",
@@ -839,7 +943,8 @@
           "penalty": null,
           "exception": null,
           "explanation": "вооруженным считается человек с оружием в руках (в т.ч с холодным оружием).",
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.2",
@@ -847,7 +952,8 @@
           "penalty": null,
           "exception": "территории (респавны) криминальных организаций и семейные особняки. • Территория гетто • Респауны банд • Аэропорт в Сэнди-Шорс • Эксклюзивная штаб-квартира организации (захваченные / активные (функционально) семейные особняки)",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         }
       ]
     },
@@ -860,7 +966,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.2",
@@ -868,7 +975,8 @@
           "penalty": null,
           "exception": "р. 1, п. 3.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.3",
@@ -877,7 +985,8 @@
           "exception": null,
           "explanation": null,
           "note": "запрещено подставные РП расследования для обхода р. 1, п. 2.",
-          "note2": "наказание может варьироваться в зависимости от нарушения."
+          "note2": "наказание может варьироваться в зависимости от нарушения.",
+          "example": null
         },
         {
           "code": "1.4.1",
@@ -885,7 +994,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.4.2",
@@ -893,7 +1003,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.4.3",
@@ -901,7 +1012,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": "выговор снимается на усмотрение главного куратора фракций."
+          "note": "выговор снимается на усмотрение главного куратора фракций.",
+          "example": null
         },
         {
           "code": "1.4.4",
@@ -909,7 +1021,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.5",
@@ -917,7 +1030,8 @@
           "penalty": null,
           "exception": "лидер City Hall всегда избирается путем выборов.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.6",
@@ -925,7 +1039,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.7",
@@ -933,7 +1048,8 @@
           "penalty": "Беседа / Устный выговор / Строгий выговор / Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.8",
@@ -941,7 +1057,8 @@
           "penalty": "Устный выговор",
           "exception": "лидер правительства имеет право поставить только одного заместителя.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.9",
@@ -949,7 +1066,8 @@
           "penalty": null,
           "exception": "одобрение гл. куратора; р.4 пункт 3.3, р.4 пункт 4; увольнение игрока во время дня блата.",
           "explanation": null,
-          "note": "день блата работает только при становлении на первый срок."
+          "note": "день блата работает только при становлении на первый срок.",
+          "example": null
         },
         {
           "code": "1.10",
@@ -957,7 +1075,8 @@
           "penalty": "Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.1",
@@ -965,7 +1084,8 @@
           "penalty": "Беседа / Устный выговор / Строгий выговор / Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.2.1",
@@ -973,7 +1093,8 @@
           "penalty": "Устный выговор",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.2.2",
@@ -981,15 +1102,17 @@
           "penalty": "Беседа / Устный выговор",
           "exception": "в случае изменения дипломатических отношений информация должна быть обновлена в течении 12 часов.",
           "explanation": null,
-          "note": "на актуализацию информации дается 48 часов."
+          "note": "на актуализацию информации дается 48 часов.",
+          "example": null
         },
         {
           "code": "2.3",
-          "title": "Придерживаться минимального суточного онлайна в 4 часа.",
+          "title": "Придерживаться минимального суточного онлайна в 2 часа.",
           "penalty": "Устный выговор / Строгий выговор / Снятие",
           "exception": "одобрение главного куратора; лидер Government и Судебной власти.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.4",
@@ -997,7 +1120,8 @@
           "penalty": "Устный выговор / Строгий выговор / Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.5",
@@ -1005,7 +1129,8 @@
           "penalty": "Устный выговор / Строгий выговор / Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.6",
@@ -1013,7 +1138,8 @@
           "penalty": "Устный выговор / Строгий выговор / Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.7.1",
@@ -1021,7 +1147,8 @@
           "penalty": "WARN",
           "exception": null,
           "explanation": null,
-          "note": "на усмотрение главного куратора значения могут отличаться, как в меньшую, так и в большую сторону. • Деньги - 200.000$ • Оружейные материалы - 3000 • Технические материалы - 3000 • Медицинские материалы - 1500"
+          "note": "на усмотрение главного куратора значения могут отличаться, как в меньшую, так и в большую сторону. • Деньги - 200.000$ • Оружейные материалы - 3000 • Технические материалы - 3000 • Медицинские материалы - 1500",
+          "example": null
         },
         {
           "code": "2.7.2",
@@ -1029,7 +1156,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": "только для криминальных организаций при одобрении главного куратора фракций."
+          "note": "только для криминальных организаций при одобрении главного куратора фракций.",
+          "example": null
         },
         {
           "code": "2.8",
@@ -1037,15 +1165,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
-        },
-        {
-          "code": "2.9",
-          "title": "Проводить минимум 1 межфракционное мероприятие в неделю.",
-          "penalty": "Устный выговор лидеру",
-          "exception": "одобрение главного куратора фракций.",
-          "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.1",
@@ -1053,7 +1174,8 @@
           "penalty": "Понижение игрока до 2 ранга + Demorgan 30 минут / Устный выговор",
           "exception": "разрешено иметь неподходящую по лору банды фамилию.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.2",
@@ -1061,7 +1183,8 @@
           "penalty": "Строгий выговор / Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.3.1",
@@ -1069,7 +1192,8 @@
           "penalty": "Строгий выговор / Снятие",
           "exception": "одобрение главного куратора фракций.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.3.2",
@@ -1077,7 +1201,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": "требуется разрешение главного куратора."
+          "note": "требуется разрешение главного куратора.",
+          "example": null
         },
         {
           "code": "3.4",
@@ -1085,7 +1210,8 @@
           "penalty": "Устный выговор / Строгий выговор / Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.5",
@@ -1093,7 +1219,8 @@
           "penalty": "Беседа / Устный выговор / Строгий выговор / Снятие",
           "exception": null,
           "explanation": null,
-          "note": "возможны исключения."
+          "note": "возможны исключения.",
+          "example": null
         },
         {
           "code": "3.6",
@@ -1101,7 +1228,8 @@
           "penalty": "Устный выговор / Строгий выговор / Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.7",
@@ -1109,7 +1237,8 @@
           "penalty": "WARN / Устный / Строгий выговор / Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.8",
@@ -1117,7 +1246,8 @@
           "penalty": "Устный выговор",
           "exception": "одобрение главного куратора фракции.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.9",
@@ -1125,7 +1255,8 @@
           "penalty": "Беседа / Устный выговор / Строгий выговор / Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.10",
@@ -1133,15 +1264,17 @@
           "penalty": "Устный выговор / Строгий выговор / Снятие",
           "exception": null,
           "explanation": "дневной онлайн считается с 15:00 до 22:00.",
-          "note": "возможны исключения, необходимо уточнять у главного куратора фракций."
+          "note": "возможны исключения, необходимо уточнять у главного куратора фракций.",
+          "example": null
         },
         {
           "code": "4.1",
-          "title": "Лидеру правительства разрешается устанавливать любую должность игроку согласно установленному порядку от куратора фракции.",
+          "title": "Лидеру правительства разрешается повышать ключевых работников фракции на соответствующий ранг в обход общей системы повышения.",
           "penalty": null,
-          "exception": null,
+          "exception": "отклонение повышения от главного куратора фракций; игроки снятые по IC делу (суд, ордер, делопроизводство и т.д.).",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": "министры, вице-губернаторы, генеральный прокурор."
         },
         {
           "code": "4.2",
@@ -1149,7 +1282,8 @@
           "penalty": "Устный выговор лидеру + понижение игрока на 1 ранг",
           "exception": "перевод или восстановление.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.3.1",
@@ -1157,7 +1291,8 @@
           "penalty": "WARN / Устный выговор лидеру + увольнение игрока",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.3.2",
@@ -1165,7 +1300,8 @@
           "penalty": "Demorgan 50-90 минут / WARN / Устный выговор лидеру + увольнение игрока",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.3.3",
@@ -1173,7 +1309,8 @@
           "penalty": "WARN / Устный выговор лидеру + понижение игрока на 1 ранг",
           "exception": "одобрение главного куратора гос. фракций/ГА.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.4",
@@ -1181,7 +1318,8 @@
           "penalty": "Demorgan 60-90 минут / WARN / Устный выговор лидеру + понижение игрока на 1 ранг",
           "exception": "одобрение главного куратора гос. фракций.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.5",
@@ -1189,7 +1327,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         }
       ]
     },
@@ -1202,7 +1341,8 @@
           "penalty": "Строгий выговор / Снятие",
           "exception": "ГА/зГА.",
           "explanation": "ссылку на Google Meet/Yandex Телемост вам предоставляет администратор в специальном игровом уведомлении.",
-          "note": "к официальным дискордам, в которых могут осуществляться проверки, относятся: Majestic RP"
+          "note": "к официальным дискордам, в которых могут осуществляться проверки, относятся: Majestic RP",
+          "example": null
         },
         {
           "code": "1.1.2",
@@ -1210,7 +1350,8 @@
           "penalty": "Строгий выговор / Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.2",
@@ -1218,7 +1359,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.3",
@@ -1226,7 +1368,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": "отказ может повлиять на итоговое решение администрации."
+          "note": "отказ может повлиять на итоговое решение администрации.",
+          "example": null
         },
         {
           "code": "1.4",
@@ -1234,7 +1377,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": "отказ может повлиять на итоговое решение администрации."
+          "note": "отказ может повлиять на итоговое решение администрации.",
+          "example": null
         },
         {
           "code": "1.5",
@@ -1242,7 +1386,8 @@
           "penalty": "Строгий выговор / Снятие",
           "exception": null,
           "explanation": null,
-          "note": "диалоги от сообществ по распространению стороннего ПО в различных соц. сетях - не является личной перепиской."
+          "note": "диалоги от сообществ по распространению стороннего ПО в различных соц. сетях - не является личной перепиской.",
+          "example": null
         },
         {
           "code": "1.6",
@@ -1250,7 +1395,8 @@
           "penalty": "Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.7",
@@ -1258,7 +1404,8 @@
           "penalty": "Снятие + ЧС проекта (в случае нарушения)",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.8",
@@ -1266,7 +1413,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.9",
@@ -1274,7 +1422,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.10",
@@ -1282,7 +1431,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.11.1",
@@ -1290,7 +1440,8 @@
           "penalty": "Снятие",
           "exception": "LastActivityView, Everything, OpenIV, ProcessHacker,SystemInformer,BrowsingHistoryview, Journal Trace, USBDeview, UserAssistView. Recuva, Timeless, EaseUS Data Recovery, Echo Bam, ShadowExplorer, CodeWalker, HWiNFO64, Zenmap.",
           "explanation": null,
-          "note": "скачивать необходимо только с верифицированных сайтов, на"
+          "note": "скачивать необходимо только с верифицированных сайтов, на",
+          "example": "nirsoft, voidtools, timeless."
         },
         {
           "code": "1.11.2",
@@ -1298,7 +1449,8 @@
           "penalty": null,
           "exception": null,
           "explanation": "администратор не вправе как-либо препятствовать или выбирать сайт для проверки, всё это делается на личное усмотрение игрока.",
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.12",
@@ -1306,7 +1458,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.13",
@@ -1314,7 +1467,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         }
       ]
     },
@@ -1327,7 +1481,8 @@
           "penalty": "Устный выговор / Строгий выговор / Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.2",
@@ -1335,7 +1490,8 @@
           "penalty": "Устный выговор",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.3",
@@ -1343,7 +1499,8 @@
           "penalty": "Беседа / Устный выговор / Строгий выговор",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.4",
@@ -1351,7 +1508,8 @@
           "penalty": "Устный выговор / Строгий выговор",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.5",
@@ -1359,7 +1517,8 @@
           "penalty": "Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.6",
@@ -1367,7 +1526,8 @@
           "penalty": "Устный выговор / Строгий выговор",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.7",
@@ -1375,7 +1535,8 @@
           "penalty": "Строгий выговор / Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.8",
@@ -1383,7 +1544,8 @@
           "penalty": "Устный выговор / Строгий выговор / Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.9",
@@ -1391,7 +1553,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.10",
@@ -1399,7 +1562,8 @@
           "penalty": "Устный выговор / Строгий выговор / Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.11",
@@ -1407,7 +1571,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.12",
@@ -1415,7 +1580,8 @@
           "penalty": "Устный выговор / Строгий выговор",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.13",
@@ -1423,7 +1589,8 @@
           "penalty": "Беседа / Устный выговор / Строгий выговор / Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.14",
@@ -1431,7 +1598,8 @@
           "penalty": "Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.15",
@@ -1439,7 +1607,8 @@
           "penalty": "Строгий выговор / Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.16",
@@ -1447,7 +1616,8 @@
           "penalty": "Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.17",
@@ -1455,7 +1625,8 @@
           "penalty": "Устный выговор / Строгий выговор",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": "/report 221 id ДМ - Ответ: Оставьте жалобу на форум."
         },
         {
           "code": "1.18",
@@ -1463,7 +1634,8 @@
           "penalty": "Строгий выговор / Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.1",
@@ -1471,7 +1643,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.2",
@@ -1479,7 +1652,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.3",
@@ -1487,7 +1661,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.4",
@@ -1495,7 +1670,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.1",
@@ -1503,7 +1679,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.2",
@@ -1511,7 +1688,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.3",
@@ -1519,7 +1697,8 @@
           "penalty": "Устный выговор / Строгий выговор / Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.4",
@@ -1527,7 +1706,8 @@
           "penalty": "Устный выговор / Строгий выговор / Снятие",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.1",
@@ -1535,7 +1715,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.2",
@@ -1543,7 +1724,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.3",
@@ -1551,7 +1733,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.4",
@@ -1559,7 +1742,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.5",
@@ -1567,7 +1751,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.6",
@@ -1575,7 +1760,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.7",
@@ -1583,7 +1769,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.8",
@@ -1591,7 +1778,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         }
       ]
     },
@@ -1604,7 +1792,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "1.2",
@@ -1612,7 +1801,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.4",
@@ -1620,7 +1810,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.5",
@@ -1628,7 +1819,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.6",
@@ -1636,7 +1828,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.7",
@@ -1644,7 +1837,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.8",
@@ -1652,7 +1846,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.9",
@@ -1660,7 +1855,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.10",
@@ -1668,7 +1864,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": "темы не несущие серьезного нарушения удаляются только с разрешения Чиф форума/Куратора раздела/ЗГА/ГА."
+          "note": "темы не несущие серьезного нарушения удаляются только с разрешения Чиф форума/Куратора раздела/ЗГА/ГА.",
+          "example": null
         },
         {
           "code": "2.1",
@@ -1676,7 +1873,8 @@
           "penalty": "Блокировка аккаунта",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.2",
@@ -1684,7 +1882,8 @@
           "penalty": "Ban 5 - 30 дней / Блокировка аккаунта",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.3",
@@ -1692,7 +1891,8 @@
           "penalty": "Блокировка всех аккаунтов",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.4",
@@ -1700,7 +1900,8 @@
           "penalty": "Смена ника / Блокировка форумного аккаунта",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.5",
@@ -1708,7 +1909,8 @@
           "penalty": "20 баллов + удаление сообщения / Блокировка форумного аккаунта до редакции данных",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.6",
@@ -1716,7 +1918,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.7",
@@ -1724,7 +1927,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.8",
@@ -1732,7 +1936,8 @@
           "penalty": "Ban 5 - 30 дней / Permban",
           "exception": "распространение / угрозы распространения личной информации, покупка / продажа игрового имущества за реальные деньги, распространение закрытой информации, использование / распространение / продажа запрещенного ПО, угрозы в реальной жизни, оскорбление проекта / сервера и др. грубые нарушения.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "2.9",
@@ -1740,7 +1945,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.1",
@@ -1748,7 +1954,8 @@
           "penalty": null,
           "exception": null,
           "explanation": "wikipedia",
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.2",
@@ -1756,7 +1963,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.3",
@@ -1764,7 +1972,8 @@
           "penalty": "Ban 5 - 30 дней / Permban. + удаление сообщения",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.4",
@@ -1772,7 +1981,8 @@
           "penalty": "15 штрафных баллов / Ban 5 - 30 дней / Permban",
           "exception": null,
           "explanation": null,
-          "note": "запрещены завуалированные оскорбления на любых языках, а так же оскорбительные \"сленги\"."
+          "note": "запрещены завуалированные оскорбления на любых языках, а так же оскорбительные \"сленги\".",
+          "example": null
         },
         {
           "code": "3.5",
@@ -1780,7 +1990,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": "ответ от лица Администратора, приравнивается к нарушению."
+          "note": "ответ от лица Администратора, приравнивается к нарушению.",
+          "example": null
         },
         {
           "code": "3.6",
@@ -1788,7 +1999,8 @@
           "penalty": "50 штрафных баллов / Ban 15 - 30 дней / Permban + удаление запрещенного контента",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.7",
@@ -1796,7 +2008,8 @@
           "penalty": "Блокировка форумного аккаунта + удаление сообщения",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.8",
@@ -1804,7 +2017,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.9",
@@ -1812,7 +2026,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.10",
@@ -1820,7 +2035,8 @@
           "penalty": "Блокировка форумного аккаунта + удаление сообщения",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.11",
@@ -1828,7 +2044,8 @@
           "penalty": "Блокировка форумного аккаунта/Ban игрового аккаунта",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.12",
@@ -1836,7 +2053,8 @@
           "penalty": "Ban 5 - 30 дней / Permban",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "3.13",
@@ -1844,7 +2062,8 @@
           "penalty": "10-50 штрафных баллов / Ban 5-30 / perm + Удаление сообщения",
           "exception": null,
           "explanation": null,
-          "note": "из дискорда/форума/ЛС и т.п."
+          "note": "из дискорда/форума/ЛС и т.п.",
+          "example": null
         },
         {
           "code": "4.1",
@@ -1852,7 +2071,8 @@
           "penalty": null,
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.2",
@@ -1860,7 +2080,8 @@
           "penalty": "10 штрафных баллов / Ban 5 - 15 дней",
           "exception": "закрытие темы сотрудником проекта.",
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.3",
@@ -1868,7 +2089,8 @@
           "penalty": "Блокировка форумного аккаунта на 15 дней",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": null
         },
         {
           "code": "4.4",
@@ -1876,7 +2098,8 @@
           "penalty": "Статус \"Нежелательный\" / Блокировка форумного аккаунта",
           "exception": null,
           "explanation": null,
-          "note": null
+          "note": null,
+          "example": "намеренная \"душка\" лидеров или/и администрации, жалобы не несущие смысловую нагрузку и т.п."
         }
       ]
     }
